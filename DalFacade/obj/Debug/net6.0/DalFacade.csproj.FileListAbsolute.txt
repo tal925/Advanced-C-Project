@@ -1,0 +1,67 @@
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.deps.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfoInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfo.cs
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\refint\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\ref\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.deps.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfoInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfo.cs
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\refint\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\ref\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfoInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfo.cs
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.deps.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\refint\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\ref\DalFacade.dll
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.deps.json
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.dll
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfo.cs
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.dll
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\refint\DalFacade.dll
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.pdb
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\ref\DalFacade.dll
+M:\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.csproj.AssemblyReference.cache
+M:\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfoInputs.cache
+M:\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfo.cs
+M:\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.csproj.CoreCompileInputs.cache
+M:\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.dll
+M:\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\refint\DalFacade.dll
+M:\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.pdb
+M:\C# מתקדם\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.deps.json
+M:\C# מתקדם\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.dll
+M:\C# מתקדם\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.pdb
+M:\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\ref\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.deps.json
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\bin\Debug\net6.0\DalFacade.pdb
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfoInputs.cache
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfo.cs
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\refint\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.pdb
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\ref\DalFacade.dll

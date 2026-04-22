@@ -1,0 +1,76 @@
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\bin\Debug\net6.0\BL.deps.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\bin\Debug\net6.0\BL.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\bin\Debug\net6.0\BL.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalList.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\bin\Debug\net6.0\Tools.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalList.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\bin\Debug\net6.0\Tools.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.csproj.Up2Date
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\obj\Debug\net6.0\refint\BL.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\BL\obj\Debug\net6.0\ref\BL.dll
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.dll
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.pdb
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\bin\Debug\net6.0\BL.deps.json
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\bin\Debug\net6.0\BL.dll
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\bin\Debug\net6.0\BL.pdb
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalFacade.dll
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalList.dll
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\bin\Debug\net6.0\Tools.dll
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalList.pdb
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\bin\Debug\net6.0\Tools.pdb
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.csproj.Up2Date
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\obj\Debug\net6.0\refint\BL.dll
+C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\BL\obj\Debug\net6.0\ref\BL.dll
+M:\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+M:\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+M:\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+M:\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+M:\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.dll
+M:\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\refint\BL.dll
+M:\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.pdb
+M:\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\BL.deps.json
+M:\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\BL.dll
+M:\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\BL.pdb
+M:\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalFacade.dll
+M:\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalList.dll
+M:\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\Tools.dll
+M:\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalFacade.pdb
+M:\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalList.pdb
+M:\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\Tools.pdb
+M:\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+M:\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\ref\BL.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\BL.deps.json
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\BL.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\BL.pdb
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalList.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\Tools.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalFacade.pdb
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\DalList.pdb
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\bin\Debug\net6.0\Tools.pdb
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.csproj.Up2Date
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\refint\BL.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.pdb
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\ref\BL.dll
