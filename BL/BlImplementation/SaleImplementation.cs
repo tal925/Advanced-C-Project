@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using BO;
 
 namespace BlImplementation;
 
@@ -12,14 +13,7 @@ internal class SaleImplementation : BlApi.ISale
     {
         try
         {
-            _dal.Sale.Create(new Do.Sale(
-                sale.ProductID,
-                sale.Count,
-                sale.PriceSale,
-                sale.IsClubMember,
-                sale.StartDate, 
-                sale.EndDate    
-            ));
+            _dal.Sale.Create(sale.ToDO());
         }
         catch (Exception ex)
         {
@@ -31,14 +25,7 @@ internal class SaleImplementation : BlApi.ISale
     {
         try
         {
-            _dal.Sale.Update(new Do.Sale(
-                sale.ProductID,
-                sale.Count,
-                sale.PriceSale,
-                sale.IsClubMember,
-                sale.StartDate,
-                sale.EndDate
-            ));
+            _dal.Sale.Update(sale.ToDO());
         }
         catch (Exception ex)
         {
@@ -50,17 +37,9 @@ internal class SaleImplementation : BlApi.ISale
     {
         try
         {
-            Do.Sale s = _dal.Sale.Read(sale => sale.idProduct == id);
-
-            return new BO.Sale
-            {
-                ProductID = s.idProduct,
-                Count = s.count,
-                PriceSale = s.pricesale,
-                IsClubMember = s.clob,
-                StartDate = s.start, 
-                EndDate = s.end      
-            };
+            var s = _dal.Sale.Read(id);
+            if (s == null) throw new BO.BlDoesNotExistException($"Sale {id} not found");
+            return s.ToBO();
         }
         catch (Exception ex)
         {

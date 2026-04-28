@@ -159,7 +159,7 @@
             UpdatePanel.Controls.Add(label2);
             UpdatePanel.Location = new Point(1, 1);
             UpdatePanel.Name = "UpdatePanel";
-            UpdatePanel.Size = new Size(643, 412);
+            UpdatePanel.Size = new Size(471, 412);
             UpdatePanel.TabIndex = 9;
             UpdatePanel.Visible = false;
             // 
@@ -172,7 +172,7 @@
             DeletePanel.Controls.Add(btnConfirmDelete);
             DeletePanel.Location = new Point(1, 1);
             DeletePanel.Name = "DeletePanel";
-            DeletePanel.Size = new Size(666, 415);
+            DeletePanel.Size = new Size(394, 415);
             DeletePanel.TabIndex = 12;
             DeletePanel.Visible = false;
             // 
@@ -183,7 +183,7 @@
             ReadOnePanel.Controls.Add(label10);
             ReadOnePanel.Location = new Point(1, 1);
             ReadOnePanel.Name = "ReadOnePanel";
-            ReadOnePanel.Size = new Size(640, 454);
+            ReadOnePanel.Size = new Size(217, 454);
             ReadOnePanel.TabIndex = 16;
             ReadOnePanel.Visible = false;
             // 
@@ -222,7 +222,7 @@
             dgvCustomers.Name = "dgvCustomers";
             dgvCustomers.RowHeadersWidth = 51;
             dgvCustomers.RowTemplate.Height = 29;
-            dgvCustomers.Size = new Size(652, 415);
+            dgvCustomers.Size = new Size(305, 415);
             dgvCustomers.TabIndex = 15;
             dgvCustomers.Visible = false;
             // 

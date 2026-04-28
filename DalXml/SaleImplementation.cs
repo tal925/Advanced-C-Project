@@ -1,62 +1,79 @@
-﻿using DalApi;
-using Do;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Linq;
+using Do;
+using Tools;
+using DalApi;
 
 namespace Dal;
 
+// מחלקה המכילה את הלוגיקה
 internal class SaleImplementation : ISale
 {
-    readonly string s_sales_xml = "sales";
-
+    /// <summary>
+    /// יצירת מכירה חדשה ברשימת המכירות
+    /// </summary>
     public int Create(Sale item)
     {
-        List<Sale> sales = XMLTools.LoadListFromXMLSerializer<Sale>(s_sales_xml);
+        int newId = DataSource.Config.GetId;
 
-        Sale newItem = item with { idProduct = Config.SaleNum };
+        // בדיקה אם קיימת מכירה עם אותו מזהה (idProduct) — במקרה ונדרש אחרת אפשר לשנות לוגיקה
+        if (DataSource.Sales.Any(s => s != null && s.idProduct == newId))
+        {
+            LogManager.WriteToLog("DalList", "Create", $"ERROR: Sale with product-id {newId} already exists");
+            throw new Exception("Sale with this id already exists");
+        }
 
-        sales.Add(newItem);
-        XMLTools.SaveListToXMLSerializer(sales, s_sales_xml);
-
-        return newItem.idProduct;
+        Sale newSale = item with { idProduct = newId };
+        DataSource.Sales.Add(newSale);
+        LogManager.WriteToLog("DalList", "Create", $"Finished. Created sale product-id: {newId}");
+        return newId;
     }
 
-    public Sale? Read(int id)
-    {
-        List<Sale> sales = XMLTools.LoadListFromXMLSerializer<Sale>(s_sales_xml);
-        return sales.FirstOrDefault(s => s.idProduct == id);
-    }
-
+    /// <summary>
+    /// מחזירה מכירה לפי תנאי מסוים, אם לא נמצא מחזירה null
+    /// </summary>
     public Sale? Read(Func<Sale, bool> filter)
     {
-        List<Sale> sales = XMLTools.LoadListFromXMLSerializer<Sale>(s_sales_xml);
-        return sales.FirstOrDefault(filter);
+        return DataSource.Sales.FirstOrDefault(s => s != null && filter(s));
     }
 
-    public IEnumerable<Sale?> ReadAll(Func<Sale?, bool>? filter = null)
+    /// <summary>
+    /// מחזירה את כל המכירות העומדות בתנאי מסוים, אם לא נשלח תנאי מחזירה את כל המכירות
+    /// </summary>
+    public IEnumerable<Sale?> ReadAll(Func<Sale, bool>? filter = null)
     {
-        List<Sale> sales = XMLTools.LoadListFromXMLSerializer<Sale>(s_sales_xml);
-        if (filter == null) return sales;
-        return sales.Where(filter);
+        if (filter == null)
+            return DataSource.Sales.Select(item => item);
+
+        return DataSource.Sales.Where(filter).Select(item => item);
     }
 
+    /// <summary>
+    /// עדכון מכירה קיימת ברשימת המכירות
+    /// </summary>
     public void Update(Sale item)
     {
-        List<Sale> sales = XMLTools.LoadListFromXMLSerializer<Sale>(s_sales_xml);
-        if (sales.RemoveAll(s => s.idProduct == item.idProduct) == 0)
-            throw new Exception("Sale not found");
+        var existingSale = DataSource.Sales.FirstOrDefault(s => s != null && s.idProduct == item.idProduct);
 
-        sales.Add(item);
-        XMLTools.SaveListToXMLSerializer(sales, s_sales_xml);
+        if (existingSale == null)
+            throw new Exception("Sale with this id not exists");
+
+        int index = DataSource.Sales.IndexOf(existingSale);
+        DataSource.Sales[index] = item;
+        LogManager.WriteToLog("DalList", "Update", $"Updated sale product-id: {item.idProduct}");
     }
 
+    /// <summary>
+    /// מחיקת מכירה לפי id המוצר, אם לא נמצא זורקת חריגה
+    /// </summary>
     public void Delete(int id)
     {
-        List<Sale> sales = XMLTools.LoadListFromXMLSerializer<Sale>(s_sales_xml);
-        if (sales.RemoveAll(s => s.idProduct == id) == 0)
-            throw new Exception("Sale not found");
+        var sale = DataSource.Sales.FirstOrDefault(s => s != null && s.idProduct == id);
 
-        XMLTools.SaveListToXMLSerializer(sales, s_sales_xml);
+        if (sale == null)
+            throw new Exception("Sale with this id not exists");
+
+        DataSource.Sales.Remove(sale);
+        LogManager.WriteToLog("DalList", "Delete", $"Deleted sale product-id: {id}");
     }
 }

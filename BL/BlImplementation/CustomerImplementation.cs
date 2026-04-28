@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using BO;
 
 namespace BlImplementation;
 
@@ -12,13 +13,7 @@ internal class CustomerImplementation : BlApi.ICustomer
     {
         try
         {
-            _dal.customer.Create(new Do.Customer(
-                customer.ID,
-                customer.Name ?? "",
-                customer.Address ?? "",
-                customer.Phone != null ? int.Parse(customer.Phone) : 0, 
-                customer.IsClubMember
-            ));
+            _dal.customer.Create(customer.ToDO());
         }
         catch (Exception ex)
         {
@@ -36,43 +31,25 @@ internal class CustomerImplementation : BlApi.ICustomer
     {
         try
         {
-            var c = _dal.customer.Read(cust => cust.id == id);
-            return new BO.Customer
-            {
-                ID = c.id,
-                Name = c.name,
-                Address = c.adress, 
-                Phone = c.phon.ToString(), 
-                IsClubMember = c.isclob 
-            };
+            var c = _dal.customer.Read(id);
+            if (c == null) throw new BO.BlDoesNotExistException($"Customer {id} not found");
+            return c.ToBO();
         }
         catch (Exception ex) { throw new BO.BlDoesNotExistException("Not found", ex); }
     }
 
     public IEnumerable<BO.Customer> GetList()
     {
-        return _dal.customer.ReadAll().Select(c => new BO.Customer
-        {
-            ID = c.id,
-            Name = c.name,
-            Address = c.adress,
-            Phone = c.phon.ToString(),
-            IsClubMember = c.isclob
-        });
+        return _dal.customer.ReadAll().Where(c => c != null).Select(c => c!.ToBO());
     }
 
     public void Update(BO.Customer customer)
     {
         try
         {
-            _dal.customer.Update(new Do.Customer(
-                customer.ID,
-                customer.Name ?? "",
-                customer.Address ?? "",
-                customer.Phone != null ? int.Parse(customer.Phone) : 0,
-                customer.IsClubMember
-            ));
+            _dal.customer.Update(customer.ToDO());
         }
         catch (Exception ex) { throw new BO.BlDoesNotExistException("Update failed", ex); }
     }
+
 }

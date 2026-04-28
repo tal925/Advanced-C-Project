@@ -76,3 +76,4 @@ C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalL
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\refint\DalList.dll
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.pdb
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\ref\DalList.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.sourcelink.json

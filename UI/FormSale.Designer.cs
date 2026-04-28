@@ -32,7 +32,10 @@
             UpdateButton = new Button();
             DeleteButton = new Button();
             ReadAllButton = new Button();
+            AddPanel = new Panel();
+            txtNameSale = new TextBox();
             label1 = new Label();
+            AddPanel.SuspendLayout();
             SuspendLayout();
             // 
             // AddButton
@@ -71,29 +74,48 @@
             ReadAllButton.Text = "הצג הכל";
             ReadAllButton.UseVisualStyleBackColor = true;
             // 
+            // AddPanel
+            // 
+            AddPanel.Controls.Add(txtNameSale);
+            AddPanel.Controls.Add(label1);
+            AddPanel.Location = new Point(1, 1);
+            AddPanel.Name = "AddPanel";
+            AddPanel.Size = new Size(663, 451);
+            AddPanel.TabIndex = 4;
+            AddPanel.Visible = false;
+            AddPanel.Paint += AddPanel_Paint;
+            // 
+            // txtNameSale
+            // 
+            txtNameSale.Location = new Point(382, 40);
+            txtNameSale.Name = "txtNameSale";
+            txtNameSale.Size = new Size(125, 27);
+            txtNameSale.TabIndex = 1;
+            // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(26, 27);
+            label1.Location = new Point(533, 40);
             label1.Name = "label1";
-            label1.Size = new Size(71, 20);
-            label1.TabIndex = 4;
-            label1.Text = "FromSale";
+            label1.Size = new Size(79, 20);
+            label1.TabIndex = 0;
+            label1.Text = ":שם המוצר";
             // 
             // FormSale
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(label1);
+            Controls.Add(AddPanel);
             Controls.Add(ReadAllButton);
             Controls.Add(DeleteButton);
             Controls.Add(UpdateButton);
             Controls.Add(AddButton);
             Name = "FormSale";
             Text = "FormSale";
+            AddPanel.ResumeLayout(false);
+            AddPanel.PerformLayout();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
@@ -102,6 +124,8 @@
         private Button UpdateButton;
         private Button DeleteButton;
         private Button ReadAllButton;
+        private Panel AddPanel;
         private Label label1;
+        private TextBox txtNameSale;
     }
 }

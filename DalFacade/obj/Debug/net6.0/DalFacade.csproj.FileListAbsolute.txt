@@ -65,3 +65,4 @@ C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\ne
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\refint\DalFacade.dll
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.pdb
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\ref\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalFacade\obj\Debug\net6.0\DalFacade.sourcelink.json

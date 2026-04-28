@@ -28,3 +28,4 @@ C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalXml\obj\Debug\net6.
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalXml\obj\Debug\net6.0\refint\DalXml.dll
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalXml\obj\Debug\net6.0\DalXml.pdb
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalXml\obj\Debug\net6.0\ref\DalXml.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalXml\obj\Debug\net6.0\DalXml.sourcelink.json

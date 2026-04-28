@@ -1,8 +1,11 @@
-﻿using System.Reflection;
+﻿using System;
+using System.Reflection;
 using System.Collections;
 using System.Linq;
+using Do;
 using BO;
-namespace BL.BO;
+
+namespace BO;
 
 internal static class Tools
 {
@@ -26,7 +29,7 @@ internal static class Tools
                 result += $"{prop.Name}: \n";
                 foreach (var item in list)
                 {
-                    result += $"   {item}\n"; // כניסה לעומק התכונות
+                    result += $"   {item}\n";
                 }
             }
             else
@@ -39,6 +42,7 @@ internal static class Tools
 
     /// <summary>
     /// מתודת עזר להעתקת מאפיינים בעלי שם זהה בין אובייקטים משכבות שונות
+    /// (נשמרת כעוד אופציה - לא כל המיפויים מסתמכים עליה בגלל שמות מאפיינים שונים)
     /// </summary>
     private static void CopyProperties(object source, object target)
     {
@@ -58,51 +62,68 @@ internal static class Tools
         }
     }
 
-    // פונקציות המרה כמתודות הרחבה כפי שנדרש בסעיף 4
-
-    // --- Product ---
-    public static Product ToBO(this Product doObj)
+    // --- Product conversions ---
+    public static Product ToBO(this Do.Product doObj)
     {
-        var boObj = new Product();
-        CopyProperties(doObj, boObj);
-        return boObj;
+        if (doObj == null) return null!;
+        return new Product
+        {
+            ID = doObj.id,
+            Name = doObj.name,
+            Price = doObj.price,
+            Amount = doObj.amount,
+            Category = (Category)doObj.category
+        };
     }
 
-    public static Product ToDO(this Product boObj)
+    public static Do.Product ToDO(this Product boObj)
     {
-        var doObj = new Product();
-        CopyProperties(boObj, doObj);
-        return doObj;
+        if (boObj == null) throw new ArgumentNullException(nameof(boObj));
+        return new Do.Product(boObj.ID, boObj.Name ?? "", (Do.category)boObj.Category, boObj.Price, boObj.Amount);
     }
 
-    // --- Customer ---
-    public static Customer ToBO(this Customer doObj)
+    // --- Customer conversions ---
+    public static Customer ToBO(this Do.Customer customer)
     {
-        var boObj = new Customer();
-        CopyProperties(doObj, boObj);
-        return boObj;
+        if (customer == null) return null!;
+        return new Customer
+        {
+            ID = customer.id,
+            Name = customer.name,
+            Address = customer.adress,
+            Phone = customer.phon.ToString(),
+            IsClubMember = customer.isclob
+        };
     }
 
-    public static Customer ToDO(this Customer boObj)
+    public static Do.Customer ToDO(this Customer customer)
     {
-        var doObj = new Customer();
-        CopyProperties(boObj, doObj);
-        return doObj;
+        if (customer == null) throw new ArgumentNullException(nameof(customer));
+        int phone = 0;
+        if (!string.IsNullOrWhiteSpace(customer.Phone))
+            int.TryParse(customer.Phone, out phone);
+
+        return new Do.Customer(customer.ID, customer.Name ?? "", customer.Address ?? "", phone, customer.IsClubMember);
     }
 
-    // --- Sale ---
-    public static Sale ToBO(this Sale doObj)
+    // --- Sale conversions ---
+    public static Sale ToBO(this Do.Sale doObj)
     {
-        var boObj = new Sale();
-        CopyProperties(doObj, boObj);
-        return boObj;
+        if (doObj == null) return null!;
+        return new Sale
+        {
+            ProductID = doObj.idProduct,
+            Count = doObj.count,
+            PriceSale = doObj.pricesale,
+            IsClubMember = doObj.clob,
+            StartDate = doObj.start,
+            EndDate = doObj.end
+        };
     }
 
-    public static Sale ToDO(this Sale boObj)
+    public static Do.Sale ToDO(this Sale boObj)
     {
-        var doObj = new Sale();
-        CopyProperties(boObj, doObj);
-        return doObj;
+        if (boObj == null) throw new ArgumentNullException(nameof(boObj));
+        return new Do.Sale(boObj.ProductID, boObj.Count, boObj.PriceSale, boObj.IsClubMember, boObj.StartDate, boObj.EndDate);
     }
-    
 }

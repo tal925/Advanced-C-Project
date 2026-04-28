@@ -17,6 +17,9 @@ namespace UI
             InitializeComponent();
         }
 
+        private void AddPanel_Paint(object sender, PaintEventArgs e)
+        {
 
+        }
     }
 }

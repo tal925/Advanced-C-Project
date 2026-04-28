@@ -1,46 +1,45 @@
 ﻿using DalApi;
 using Do;
-namespace Dal;
+using System;
+using System.Linq;
 using Tools;
-//מחלקה המכילה את הלוגיקה
+
+namespace Dal;
+// מחלקה המכילה את הלוגיקה
 internal class SaleImplementation : ISale
 {
     /// <summary>
-    /// יצירת מכירה חדשה ברשימת המכירות, אם קיים מוצר עם אותו id המוצר זורקת חריגה
+    /// יצירת מכירה חדשה ברשימת המכירות
     /// </summary>
-    /// <param name="item"></param>
-    /// <returns></returns>
-    /// <exception cref="Exception"></exception>
     public int Create(Sale item)
     {
-        int newId = DataSource.Config.GetId;
+        int newId = DataSource.Config.GetSaleId;
 
-        // בדיקה אם קיים מוצר במכירה עם ה-ID החדש (לפי הלוגיקה שלך)
+        // בדיקה אם קיימת מכירה עם אותו מזהה (idProduct) — לפי ההנחה idProduct הוא המפתח
         if (DataSource.Sales.Any(s => s != null && s.idProduct == newId))
         {
+            LogManager.WriteToLog("DalList", "Create", $"ERROR: Sale with product-id {newId} already exists");
             throw new Exception("Sale with this id already exists");
         }
 
         Sale newSale = item with { idProduct = newId };
         DataSource.Sales.Add(newSale);
+        LogManager.WriteToLog("DalList", "Create", $"Finished. Created sale product-id: {newId}");
         return newId;
     }
 
-    /// <summary>
-    /// מחזירה מכירה לפי תנאי מסוים, אם לא נמצא מחזירה null
-    /// </summary>
-    /// <param name="filter"></param>
-    /// <returns></returns>
+    // Read by id
+    public Sale? Read(int id)
+    {
+        LogManager.WriteToLog("DalList", "Read(id)", $"Searching for sale idProduct={id}");
+        return DataSource.Sales.FirstOrDefault(s => s != null && s.idProduct == id);
+    }
+
     public Sale? Read(Func<Sale, bool> filter)
     {
         return DataSource.Sales.FirstOrDefault(s => s != null && filter(s));
     }
 
-    /// <summary>
-    /// מחזירה את כל המכירות העומדות בתנאי מסוים, אם לא נשלח תנאי מחזירה את כל המכירות
-    /// </summary>
-    /// <param name="filter"></param>
-    /// <returns></returns>
     public IEnumerable<Sale?> ReadAll(Func<Sale, bool>? filter = null)
     {
         if (filter == null)
@@ -49,11 +48,6 @@ internal class SaleImplementation : ISale
         return DataSource.Sales.Where(filter).Select(item => item);
     }
 
-    /// <summary>
-    /// עדכון מכירה קיימת ברשימת המכירות, אם לא נמצא מכירה עם אותו id המוצר זורקת חריגה
-    /// </summary>
-    /// <param name="item"></param>
-    /// <exception cref="Exception"></exception>
     public void Update(Sale item)
     {
         var existingSale = DataSource.Sales.FirstOrDefault(s => s != null && s.idProduct == item.idProduct);
@@ -63,26 +57,17 @@ internal class SaleImplementation : ISale
 
         int index = DataSource.Sales.IndexOf(existingSale);
         DataSource.Sales[index] = item;
+        LogManager.WriteToLog("DalList", "Update", $"Updated sale product-id: {item.idProduct}");
     }
 
-    /// <summary>
-    /// מחיקת מכירה לפי id המוצר, אם לא נמצא זורקת חריגה
-    /// </summary>
-    /// <param name="id"></param>
-    /// <exception cref="Exception"></exception>
     public void Delete(int id)
     {
         var sale = DataSource.Sales.FirstOrDefault(s => s != null && s.idProduct == id);
 
         if (sale == null)
-            throw new Exception("Sale with this id not exists"); // תיקנתי את הודעת השגיאה מ-"exists" ל-"not exists"
+            throw new Exception("Sale with this id not exists");
 
         DataSource.Sales.Remove(sale);
+        LogManager.WriteToLog("DalList", "Delete", $"Deleted sale product-id: {id}");
     }
-
-
-
-
-
 }
-

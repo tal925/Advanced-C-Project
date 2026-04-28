@@ -1,46 +1,46 @@
 ﻿using DalApi;
 using Do;
-namespace Dal;
+using System;
+using System.Linq;
 using Tools;
-//מחלקה המכילה את הלוגיקה
+
+namespace Dal;
+// מחלקה המכילה את הלוגיקה      
 internal class ProdactImplementation : IProduct
 {
     /// <summary>
     /// הוספת מוצר לרשימת המוצרים, אם קיים מוצר עם אותו id זורקת חריגה
     /// </summary>
-    /// <param name="item"></param>
-    /// <returns></returns>
-    /// <exception cref="Exception"></exception>
     public int Create(Product item)
     {
-        LogManager.WriteToLog("DalList", "Create", "Started creating a new customer");
+        LogManager.WriteToLog("DalList", "Create", "Started creating a new product");
         if (DataSource.Prodacts.Any(p => p != null && p.id == item.id))
         {
+            LogManager.WriteToLog("DalList", "Create", $"ERROR: Product with ID {item.id} already exists");
             throw new Exception("The product exists in the list");
         }
 
-        // יצירת מזהה חדש והוספה לרשימה
-        int newId = DataSource.Config.GetId;
+        // יצירת מזהה חדש והוספה לרשימה (now uses product counter)
+        int newId = DataSource.Config.GetProductId;
         Product newProduct = item with { id = newId };
         DataSource.Prodacts.Add(newProduct);
 
+        LogManager.WriteToLog("DalList", "Create", $"Finished. Created product ID: {newId}");
         return newId;
-
     }
-    /// <summary>
-    /// מחזירה מוצר לפי תנאי מסוים, אם לא נמצא מחזירה null
-    /// </summary>
-    /// <param name="filter"></param>
-    /// <returns></returns>
+
+    // Read by id
+    public Product? Read(int id)
+    {
+        LogManager.WriteToLog("DalList", "Read(id)", $"Searching for product id={id}");
+        return DataSource.Prodacts.FirstOrDefault(p => p != null && p.id == id);
+    }
+
     public Product? Read(Func<Product, bool> filter)
     {
         return DataSource.Prodacts.FirstOrDefault(p => p != null && filter(p));
     }
-    /// <summary>
-    /// מחזירה את כל המוצרים העומדים בתנאי מסוים, אם לא נשלח תנאי מחזירה את כל המוצרים
-    /// </summary>
-    /// <param name="filter"></param>
-    /// <returns></returns>
+
     public IEnumerable<Product?> ReadAll(Func<Product, bool>? filter = null)
     {
         if (filter == null)
@@ -48,11 +48,7 @@ internal class ProdactImplementation : IProduct
 
         return DataSource.Prodacts.Where(filter).Select(item => item);
     }
-    /// <summary>
-    /// מעדכנת מוצר קיים ברשימת המוצרים, אם לא נמצא מוצר עם אותו id זורקת חריגה
-    /// </summary>
-    /// <param name="item"></param>
-    /// <exception cref="Exception"></exception>
+
     public void Update(Product item)
     {
         var existingProduct = DataSource.Prodacts.FirstOrDefault(p => p != null && p.id == item.id);
@@ -62,22 +58,17 @@ internal class ProdactImplementation : IProduct
 
         int index = DataSource.Prodacts.IndexOf(existingProduct);
         DataSource.Prodacts[index] = item;
+        LogManager.WriteToLog("DalList", "Update", $"Updated product ID: {item.id}");
     }
-    /// <summary>
-    /// מחיקה של מוצר מהרשימה לפי id, אם לא נמצא מוצר עם אותו id זורקת חריגה
-    /// </summary>
-    /// <param name="id"></param>
-    /// <exception cref="Exception"></exception>
+
     public void Delete(int id)
     {
-        // חיפוש המוצר ברשימה בעזרת LINQ
         var item = DataSource.Prodacts.FirstOrDefault(p => p != null && p.id == id);
 
-        // בדיקה האם המוצר נמצא
         if (item == null)
             throw new Exception("The product isn't found to delete");
 
-        // מחיקת האובייקט שמצאנו מהרשימה
         DataSource.Prodacts.Remove(item);
+        LogManager.WriteToLog("DalList", "Delete", $"Deleted product ID: {id}");
     }
 }

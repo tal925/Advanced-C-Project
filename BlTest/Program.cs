@@ -1,14 +1,15 @@
 ﻿using System;
 using BlApi;
 using BO;
+using DalApi;
 
 namespace BlTest;
 
 class Program
 {
     // השדה הראשי שדרכו ניגשים לכל הלוגיקה - לפי דרישות המטלה
-    static readonly IBl s_bl = Factory.Get();
-
+    static readonly IBl s_bl = BlApi.Factory.Get();
+        
     static void Main(string[] args)
     {
         Console.WriteLine("--- Welcome to the Business Logic Test Program ---");
