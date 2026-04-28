@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             AddButton = new Button();
             UpdateButton = new Button();
             DeleteButton = new Button();
@@ -41,10 +42,16 @@
             txtSearchId = new TextBox();
             label10 = new Label();
             dgvCustomers = new DataGridView();
+            iDDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
+            nameDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
+            addressDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
+            phoneDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
+            isClubMemberDataGridViewCheckBoxColumn = new DataGridViewCheckBoxColumn();
+            customerBindingSource = new BindingSource(components);
             textBox1 = new TextBox();
             label6 = new Label();
             btnConfirmDelete = new Button();
-            button1 = new Button();
+            ApprovalUpdate = new Button();
             textUpdatePhon = new TextBox();
             textUpdateAdress = new TextBox();
             txtUpdateId = new TextBox();
@@ -61,12 +68,13 @@
             phon = new Label();
             adress = new Label();
             label1 = new Label();
-            Name = new Label();
+            שם = new Label();
             AddPanel.SuspendLayout();
             UpdatePanel.SuspendLayout();
             DeletePanel.SuspendLayout();
             ReadOnePanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvCustomers).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)customerBindingSource).BeginInit();
             SuspendLayout();
             // 
             // AddButton
@@ -101,7 +109,7 @@
             // 
             // ReadAllButton
             // 
-            ReadAllButton.Location = new Point(675, 214);
+            ReadAllButton.Location = new Point(675, 207);
             ReadAllButton.Name = "ReadAllButton";
             ReadAllButton.Size = new Size(94, 29);
             ReadAllButton.TabIndex = 3;
@@ -130,17 +138,17 @@
             AddPanel.Controls.Add(phon);
             AddPanel.Controls.Add(adress);
             AddPanel.Controls.Add(label1);
-            AddPanel.Controls.Add(Name);
-            AddPanel.Location = new Point(26, 12);
+            AddPanel.Controls.Add(שם);
+            AddPanel.Location = new Point(1, 1);
             AddPanel.Name = "AddPanel";
-            AddPanel.Size = new Size(619, 415);
+            AddPanel.Size = new Size(643, 415);
             AddPanel.TabIndex = 5;
             AddPanel.Visible = false;
             // 
             // UpdatePanel
             // 
             UpdatePanel.Controls.Add(DeletePanel);
-            UpdatePanel.Controls.Add(button1);
+            UpdatePanel.Controls.Add(ApprovalUpdate);
             UpdatePanel.Controls.Add(textUpdatePhon);
             UpdatePanel.Controls.Add(textUpdateAdress);
             UpdatePanel.Controls.Add(txtUpdateId);
@@ -149,9 +157,9 @@
             UpdatePanel.Controls.Add(label4);
             UpdatePanel.Controls.Add(label3);
             UpdatePanel.Controls.Add(label2);
-            UpdatePanel.Location = new Point(0, 0);
+            UpdatePanel.Location = new Point(1, 1);
             UpdatePanel.Name = "UpdatePanel";
-            UpdatePanel.Size = new Size(619, 412);
+            UpdatePanel.Size = new Size(643, 412);
             UpdatePanel.TabIndex = 9;
             UpdatePanel.Visible = false;
             // 
@@ -162,9 +170,9 @@
             DeletePanel.Controls.Add(textBox1);
             DeletePanel.Controls.Add(label6);
             DeletePanel.Controls.Add(btnConfirmDelete);
-            DeletePanel.Location = new Point(0, 0);
+            DeletePanel.Location = new Point(1, 1);
             DeletePanel.Name = "DeletePanel";
-            DeletePanel.Size = new Size(616, 415);
+            DeletePanel.Size = new Size(666, 415);
             DeletePanel.TabIndex = 12;
             DeletePanel.Visible = false;
             // 
@@ -173,9 +181,9 @@
             ReadOnePanel.Controls.Add(btnSearch);
             ReadOnePanel.Controls.Add(txtSearchId);
             ReadOnePanel.Controls.Add(label10);
-            ReadOnePanel.Location = new Point(-26, -13);
+            ReadOnePanel.Location = new Point(1, 1);
             ReadOnePanel.Name = "ReadOnePanel";
-            ReadOnePanel.Size = new Size(645, 454);
+            ReadOnePanel.Size = new Size(640, 454);
             ReadOnePanel.TabIndex = 16;
             ReadOnePanel.Visible = false;
             // 
@@ -206,14 +214,61 @@
             // 
             // dgvCustomers
             // 
+            dgvCustomers.AutoGenerateColumns = false;
             dgvCustomers.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvCustomers.Location = new Point(-26, -13);
+            dgvCustomers.Columns.AddRange(new DataGridViewColumn[] { iDDataGridViewTextBoxColumn, nameDataGridViewTextBoxColumn, addressDataGridViewTextBoxColumn, phoneDataGridViewTextBoxColumn, isClubMemberDataGridViewCheckBoxColumn });
+            dgvCustomers.DataSource = customerBindingSource;
+            dgvCustomers.Location = new Point(1, 1);
             dgvCustomers.Name = "dgvCustomers";
             dgvCustomers.RowHeadersWidth = 51;
             dgvCustomers.RowTemplate.Height = 29;
-            dgvCustomers.Size = new Size(358, 454);
+            dgvCustomers.Size = new Size(652, 415);
             dgvCustomers.TabIndex = 15;
             dgvCustomers.Visible = false;
+            // 
+            // iDDataGridViewTextBoxColumn
+            // 
+            iDDataGridViewTextBoxColumn.DataPropertyName = "ID";
+            iDDataGridViewTextBoxColumn.HeaderText = "ID";
+            iDDataGridViewTextBoxColumn.MinimumWidth = 6;
+            iDDataGridViewTextBoxColumn.Name = "iDDataGridViewTextBoxColumn";
+            iDDataGridViewTextBoxColumn.Width = 125;
+            // 
+            // nameDataGridViewTextBoxColumn
+            // 
+            nameDataGridViewTextBoxColumn.DataPropertyName = "Name";
+            nameDataGridViewTextBoxColumn.HeaderText = "Name";
+            nameDataGridViewTextBoxColumn.MinimumWidth = 6;
+            nameDataGridViewTextBoxColumn.Name = "nameDataGridViewTextBoxColumn";
+            nameDataGridViewTextBoxColumn.Width = 125;
+            // 
+            // addressDataGridViewTextBoxColumn
+            // 
+            addressDataGridViewTextBoxColumn.DataPropertyName = "Address";
+            addressDataGridViewTextBoxColumn.HeaderText = "Address";
+            addressDataGridViewTextBoxColumn.MinimumWidth = 6;
+            addressDataGridViewTextBoxColumn.Name = "addressDataGridViewTextBoxColumn";
+            addressDataGridViewTextBoxColumn.Width = 125;
+            // 
+            // phoneDataGridViewTextBoxColumn
+            // 
+            phoneDataGridViewTextBoxColumn.DataPropertyName = "Phone";
+            phoneDataGridViewTextBoxColumn.HeaderText = "Phone";
+            phoneDataGridViewTextBoxColumn.MinimumWidth = 6;
+            phoneDataGridViewTextBoxColumn.Name = "phoneDataGridViewTextBoxColumn";
+            phoneDataGridViewTextBoxColumn.Width = 125;
+            // 
+            // isClubMemberDataGridViewCheckBoxColumn
+            // 
+            isClubMemberDataGridViewCheckBoxColumn.DataPropertyName = "IsClubMember";
+            isClubMemberDataGridViewCheckBoxColumn.HeaderText = "IsClubMember";
+            isClubMemberDataGridViewCheckBoxColumn.MinimumWidth = 6;
+            isClubMemberDataGridViewCheckBoxColumn.Name = "isClubMemberDataGridViewCheckBoxColumn";
+            isClubMemberDataGridViewCheckBoxColumn.Width = 125;
+            // 
+            // customerBindingSource
+            // 
+            customerBindingSource.DataSource = typeof(BO.Customer);
             // 
             // textBox1
             // 
@@ -240,14 +295,15 @@
             btnConfirmDelete.Text = "מחק לקוח";
             btnConfirmDelete.UseVisualStyleBackColor = true;
             // 
-            // button1
+            // ApprovalUpdate
             // 
-            button1.Location = new Point(247, 324);
-            button1.Name = "button1";
-            button1.Size = new Size(160, 29);
-            button1.TabIndex = 11;
-            button1.Text = "בצע עדכון";
-            button1.UseVisualStyleBackColor = true;
+            ApprovalUpdate.Location = new Point(247, 324);
+            ApprovalUpdate.Name = "ApprovalUpdate";
+            ApprovalUpdate.Size = new Size(160, 29);
+            ApprovalUpdate.TabIndex = 11;
+            ApprovalUpdate.Text = "בצע עדכון";
+            ApprovalUpdate.UseVisualStyleBackColor = true;
+            ApprovalUpdate.Click += ApprovalUpdate_Click;
             // 
             // textUpdatePhon
             // 
@@ -378,15 +434,14 @@
             label1.TabIndex = 1;
             label1.Text = ":ת\"ז";
             // 
-            // Name
+            // שם
             // 
-            Name.AutoSize = true;
-            Name.Location = new Point(543, 34);
-            Name.Name = "Name";
-            Name.Size = new Size(106, 20);
-            Name.TabIndex = 0;
-            Name.Text = "FormCustomer";
-            Name.Click += Name_Click;
+            שם.AutoSize = true;
+            שם.Location = new Point(543, 34);
+            שם.Name = "שם";
+            שם.Size = new Size(34, 20);
+            שם.TabIndex = 0;
+            שם.Text = ":שם";
             // 
             // FormCustomer
             // 
@@ -399,7 +454,7 @@
             Controls.Add(DeleteButton);
             Controls.Add(UpdateButton);
             Controls.Add(AddButton);
-            Name.Text = "FormCustomer";
+            Name = "FormCustomer";
             Text = "FormCustomer";
             AddPanel.ResumeLayout(false);
             AddPanel.PerformLayout();
@@ -410,6 +465,7 @@
             ReadOnePanel.ResumeLayout(false);
             ReadOnePanel.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dgvCustomers).EndInit();
+            ((System.ComponentModel.ISupportInitialize)customerBindingSource).EndInit();
             ResumeLayout(false);
         }
 
@@ -422,7 +478,7 @@
         private Button ReadOneCustomer;
         private Panel AddPanel;
         private Label label1;
-        private Label Name;
+        private Label שם;
         private Button Approval;
         private TextBox txtId;
         private TextBox textPhon;
@@ -431,7 +487,7 @@
         private Label phon;
         private Label adress;
         private Panel UpdatePanel;
-        private Button button1;
+        private Button ApprovalUpdate;
         private TextBox textUpdatePhon;
         private TextBox textUpdateAdress;
         private TextBox txtUpdateId;
@@ -455,5 +511,11 @@
         private Button btnSearch;
         private TextBox txtSearchId;
         private Label label10;
+        private DataGridViewTextBoxColumn iDDataGridViewTextBoxColumn;
+        private DataGridViewTextBoxColumn nameDataGridViewTextBoxColumn;
+        private DataGridViewTextBoxColumn addressDataGridViewTextBoxColumn;
+        private DataGridViewTextBoxColumn phoneDataGridViewTextBoxColumn;
+        private DataGridViewCheckBoxColumn isClubMemberDataGridViewCheckBoxColumn;
+        private BindingSource customerBindingSource;
     }
 }

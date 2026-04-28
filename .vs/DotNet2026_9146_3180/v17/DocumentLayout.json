@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\DotNet2026_9146_3180\\ui\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\dotnet2026_9146_3180\\ui\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCustomer.cs",
+              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\DotNet2026_9146_3180\\UI\\FormCustomer.cs",
+              "RelativeDocumentMoniker": "UI\\FormCustomer.cs",
+              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\DotNet2026_9146_3180\\UI\\FormCustomer.cs",
+              "RelativeToolTip": "UI\\FormCustomer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T16:12:15.761Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -29,21 +42,8 @@
               "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\DotNet2026_9146_3180\\UI\\FormCustomer.cs [Design]",
               "RelativeToolTip": "UI\\FormCustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T11:26:16.874Z",
+              "WhenOpened": "2026-04-28T16:10:58.315Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormCustomer.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\DotNet2026_9146_3180\\UI\\FormCustomer.cs",
-              "RelativeDocumentMoniker": "UI\\FormCustomer.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\DotNet2026_9146_3180\\UI\\FormCustomer.cs",
-              "RelativeToolTip": "UI\\FormCustomer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T16:27:28.864Z",
-              "EditorCaption": ""
             }
           ]
         }

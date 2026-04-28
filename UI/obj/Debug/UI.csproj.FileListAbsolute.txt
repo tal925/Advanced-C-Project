@@ -21,3 +21,4 @@ C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\bin\UI.runtimeconfig.j
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\bin\UI.pdb
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\UI\obj\Debug\UI.genruntimeconfig.cache
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\UI\obj\Debug\ref\UI.dll
+C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\UI\obj\Debug\UI.sourcelink.json
