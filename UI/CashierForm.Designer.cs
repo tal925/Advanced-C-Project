@@ -35,9 +35,10 @@
             // 
             // buttonSales
             // 
-            buttonSales.Location = new Point(154, 296);
+            buttonSales.Location = new Point(145, 158);
+            buttonSales.Margin = new Padding(3, 2, 3, 2);
             buttonSales.Name = "buttonSales";
-            buttonSales.Size = new Size(94, 29);
+            buttonSales.Size = new Size(82, 22);
             buttonSales.TabIndex = 0;
             buttonSales.Text = "מבצעים";
             buttonSales.UseVisualStyleBackColor = true;
@@ -45,9 +46,10 @@
             // 
             // buttonCustomer
             // 
-            buttonCustomer.Location = new Point(410, 313);
+            buttonCustomer.Location = new Point(347, 158);
+            buttonCustomer.Margin = new Padding(3, 2, 3, 2);
             buttonCustomer.Name = "buttonCustomer";
-            buttonCustomer.Size = new Size(94, 29);
+            buttonCustomer.Size = new Size(82, 22);
             buttonCustomer.TabIndex = 1;
             buttonCustomer.Text = "לקוחות";
             buttonCustomer.UseVisualStyleBackColor = true;
@@ -55,9 +57,10 @@
             // 
             // buttonProduct
             // 
-            buttonProduct.Location = new Point(609, 330);
+            buttonProduct.Location = new Point(527, 158);
+            buttonProduct.Margin = new Padding(3, 2, 3, 2);
             buttonProduct.Name = "buttonProduct";
-            buttonProduct.Size = new Size(94, 29);
+            buttonProduct.Size = new Size(82, 22);
             buttonProduct.TabIndex = 2;
             buttonProduct.Text = "מוצרים";
             buttonProduct.UseVisualStyleBackColor = true;
@@ -65,12 +68,13 @@
             // 
             // CashierForm
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(700, 338);
             Controls.Add(buttonProduct);
             Controls.Add(buttonCustomer);
             Controls.Add(buttonSales);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "CashierForm";
             Text = "CashierForm";
             ResumeLayout(false);

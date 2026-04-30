@@ -46,3 +46,4 @@ C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanc
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.pdb
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.genruntimeconfig.cache
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\ref\UI.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.FormPayment.resources

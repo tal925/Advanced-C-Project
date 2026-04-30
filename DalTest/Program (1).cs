@@ -9,7 +9,7 @@ using DalList;
 //מציג תפריטים המאפשרים למשתמש (המנהל או הקופאי) לבצע פעולות על הנתונים.
 internal class Program
 {
-   private static readonly IDal s_dal = s_dal = DalList.DalList.Instance;
+    private static readonly IDal s_dal = DalList.DalList.Instance;
     private static void Main(string[] args)
     {
         Initialization.Initialize();
@@ -355,6 +355,7 @@ internal class Program
         return new Customer(id, name, adress, phon,false);
 
     } 
+
     private static Product Askprodect(int code = 0)
     {
         string name;

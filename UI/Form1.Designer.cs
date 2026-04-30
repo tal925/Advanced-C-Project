@@ -34,9 +34,10 @@
             // 
             // btnCashier
             // 
-            btnCashier.Location = new Point(238, 240);
+            btnCashier.Location = new Point(284, 180);
+            btnCashier.Margin = new Padding(3, 2, 3, 2);
             btnCashier.Name = "btnCashier";
-            btnCashier.Size = new Size(94, 29);
+            btnCashier.Size = new Size(82, 22);
             btnCashier.TabIndex = 0;
             btnCashier.Text = "מנהל";
             btnCashier.UseVisualStyleBackColor = true;
@@ -44,9 +45,10 @@
             // 
             // btnAdmin
             // 
-            btnAdmin.Location = new Point(586, 240);
+            btnAdmin.Location = new Point(423, 180);
+            btnAdmin.Margin = new Padding(3, 2, 3, 2);
             btnAdmin.Name = "btnAdmin";
-            btnAdmin.Size = new Size(94, 29);
+            btnAdmin.Size = new Size(82, 22);
             btnAdmin.TabIndex = 1;
             btnAdmin.Text = "קופאי";
             btnAdmin.TextAlign = ContentAlignment.MiddleRight;
@@ -55,11 +57,12 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(700, 338);
             Controls.Add(btnAdmin);
             Controls.Add(btnCashier);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "Form1";
             Load += Form1_Load;
             ResumeLayout(false);

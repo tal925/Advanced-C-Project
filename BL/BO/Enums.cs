@@ -1,7 +1,7 @@
 ﻿namespace BO;
 
 public enum Category {
-    Coffy, 
+    Coffee, 
     Frozen_yogurt, 
     Ice_cream, 
     Cake, 

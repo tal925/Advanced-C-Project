@@ -32,3 +32,14 @@
 22/04/2026 14:27:38	DalList	Create:	Started creating a new customer
 22/04/2026 14:27:38	DalList	Create:	Started creating a new customer
 22/04/2026 14:27:38	DalList	Create:	Started creating a new customer
+30/04/2026 22:35:08	DalList	Read(id):	Searching for product id=12222
+30/04/2026 22:35:35	DalList	Read(id):	Searching for product id=1221
+30/04/2026 22:36:04	DalList	Read(id):	Searching for product id=123456
+30/04/2026 22:59:54	DalList	Read(id):	Searching for product id=1234
+30/04/2026 23:05:15	DalList	Read(id):	Searching for product id=123
+30/04/2026 23:06:41	DalList	Read(id):	Searching for product id=123
+30/04/2026 23:11:38	DalList	Read(id):	Searching for product id=100001
+30/04/2026 23:16:44	DalList	Read(id):	Searching for product id=123
+30/04/2026 23:17:11	DalList	Read(id):	Searching for product id=10001
+30/04/2026 23:22:36	DalList	Read(id):	Searching for product id=123
+30/04/2026 23:52:50	DalList	Read(id):	Searching for product id=123

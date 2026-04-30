@@ -7,4 +7,5 @@ public interface IOrder
     public double CalcTotalPrice(Order order);
     public Order AddProductToOrder(Order order, int productId);
     public void DoOrder(Order order);
+    //double GetTotalCartPrice(int orderId); 
 }
