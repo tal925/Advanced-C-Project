@@ -75,3 +75,23 @@ C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\re
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.pdb
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\ref\BL.dll
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\BL\obj\Debug\net6.0\BL.sourcelink.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\bin\Debug\net6.0\BL.deps.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\bin\Debug\net6.0\BL.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\bin\Debug\net6.0\BL.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\bin\Debug\net6.0\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\bin\Debug\net6.0\DalList.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\bin\Debug\net6.0\Tools.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\bin\Debug\net6.0\DalList.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\bin\Debug\net6.0\Tools.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\obj\Debug\net6.0\BL.sourcelink.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\obj\Debug\net6.0\BL.csproj.Up2Date
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\obj\Debug\net6.0\BL.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\obj\Debug\net6.0\refint\BL.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\obj\Debug\net6.0\BL.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\BL\obj\Debug\net6.0\ref\BL.dll

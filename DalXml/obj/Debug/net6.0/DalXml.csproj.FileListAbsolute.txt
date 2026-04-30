@@ -29,3 +29,21 @@ C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalXml\obj\Debug\net6.
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalXml\obj\Debug\net6.0\DalXml.pdb
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalXml\obj\Debug\net6.0\ref\DalXml.dll
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalXml\obj\Debug\net6.0\DalXml.sourcelink.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\obj\Debug\net6.0\DalXml.csproj.AssemblyReference.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\obj\Debug\net6.0\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\obj\Debug\net6.0\DalXml.AssemblyInfoInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\obj\Debug\net6.0\DalXml.AssemblyInfo.cs
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\obj\Debug\net6.0\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\obj\Debug\net6.0\DalXml.sourcelink.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\obj\Debug\net6.0\DalXml.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\obj\Debug\net6.0\refint\DalXml.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\obj\Debug\net6.0\DalXml.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\bin\Debug\net6.0\DalXml.deps.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\bin\Debug\net6.0\DalXml.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\bin\Debug\net6.0\DalXml.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\bin\Debug\net6.0\DalFacade.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\bin\Debug\net6.0\Tools.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\bin\Debug\net6.0\Tools.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\obj\Debug\net6.0\DalXml.csproj.Up2Date
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalXml\obj\Debug\net6.0\ref\DalXml.dll

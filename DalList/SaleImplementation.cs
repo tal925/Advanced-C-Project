@@ -45,7 +45,8 @@ internal class SaleImplementation : ISale
         if (filter == null)
             return DataSource.Sales.Select(item => item);
 
-        return DataSource.Sales.Where(filter).Select(item => item);
+        // Adapt the filter to handle nullable Sale
+        return DataSource.Sales.Where(s => s != null && filter(s)).Select(item => item);
     }
 
     public void Update(Sale item)

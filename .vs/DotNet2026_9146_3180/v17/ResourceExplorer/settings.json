@@ -1,16 +1,1 @@
-{
-  "ShowEmptyProjects": false,
-  "SelectedGroups": [],
-  "ExpandedProjects": [],
-  "EnableSpellChecker": true,
-  "ColumnOrder": [
-    "name",
-    "type",
-    "neutral-value",
-    "neutral-comment"
-  ],
-  "VisibleColumnKeys": [
-    "name",
-    "neutral-value"
-  ]
-}
+{"ShowEmptyProjects":false,"CustomColumnOrderings":{"name":0,"file-path":1,"file-name":2,"neutral-value":3,"neutral-comment":4,"type":5},"ShowValidationErrors":true,"SelectedResourceGroupsByProject":{"C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\#c net\\Advanced-C-Project\\DalList\\DalList.csproj":[],"C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\#c net\\Advanced-C-Project\\DalFacade\\DalFacade.csproj":[],"C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\#c net\\Advanced-C-Project\\BL\\BL.csproj":[],"C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\#c net\\Advanced-C-Project\\DalTest\\DalTest.csproj":[],"C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\#c net\\Advanced-C-Project\\BlTest\\BlTest.csproj":[],"C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\#c net\\Advanced-C-Project\\UI\\UI.csproj":[],"C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\#c net\\Advanced-C-Project\\Tools\\Tools.csproj":[],"C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\#c net\\Advanced-C-Project\\DalXml\\DalXml.csproj":[]},"VisibleColumnKeys":["name","neutral-value","neutral-comment"]}

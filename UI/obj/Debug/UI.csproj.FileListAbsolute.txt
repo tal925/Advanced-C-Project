@@ -22,3 +22,27 @@ C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\bin\UI.pdb
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\UI\obj\Debug\UI.genruntimeconfig.cache
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\UI\obj\Debug\ref\UI.dll
 C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\UI\obj\Debug\UI.sourcelink.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\bin\UI.exe
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\bin\UI.deps.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\bin\UI.runtimeconfig.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\bin\UI.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\bin\UI.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.AdminForm.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.CashierForm.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.Form1.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.FormCustomer.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.FormProduct.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.FormSale.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.sourcelink.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\refint\UI.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\ref\UI.dll

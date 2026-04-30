@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2GdgUJlbYsk=",
+  "dgSpecHash": "aKifHkeiOO0=",
   "success": true,
-  "projectFilePath": "C:\\לימודים\\יד\\C# מתקדם\\DotNet2026_9146_3180\\BlTest\\BlTest.csproj",
+  "projectFilePath": "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\שנה ב\\#c net\\Advanced-C-Project\\BlTest\\BlTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+    "C:\\Users\\בית\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],
   "logs": []
 }

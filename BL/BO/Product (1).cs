@@ -1,5 +1,4 @@
 ﻿using BO;
-
 namespace BO;
 
 public class Product

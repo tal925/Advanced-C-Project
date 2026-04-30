@@ -61,4 +61,8 @@ internal class ProductImplementation : IProduct
 
         XMLTools.SaveListToXMLSerializer(products, s_products_xml);
     }
+}public static class Config
+{
+    private static int _productNum = 1;
+    public static int ProductNum => _productNum++;
 }
