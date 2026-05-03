@@ -101,23 +101,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\בית\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\לימודים\\יד\\C# מתקדם\\‏‏תיקיה חדשה\\Advanced-C-Project\\UI\\UI.csproj",
+      "projectUniqueName": "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\Advanced-C-Project\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "C:\\לימודים\\יד\\C# מתקדם\\‏‏תיקיה חדשה\\Advanced-C-Project\\UI\\UI.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\לימודים\\יד\\C# מתקדם\\‏‏תיקיה חדשה\\Advanced-C-Project\\UI\\obj\\",
+      "projectPath": "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\Advanced-C-Project\\UI\\UI.csproj",
+      "packagesPath": "C:\\Users\\בית\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\Advanced-C-Project\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\בית\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -133,14 +133,14 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\לימודים\\יד\\C# מתקדם\\‏‏תיקיה חדשה\\Advanced-C-Project\\BL\\BL.csproj": {
-              "projectPath": "C:\\לימודים\\יד\\C# מתקדם\\‏‏תיקיה חדשה\\Advanced-C-Project\\BL\\BL.csproj"
+            "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\Advanced-C-Project\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\Advanced-C-Project\\BL\\BL.csproj"
             },
-            "C:\\לימודים\\יד\\C# מתקדם\\‏‏תיקיה חדשה\\Advanced-C-Project\\DalList\\DalList.csproj": {
-              "projectPath": "C:\\לימודים\\יד\\C# מתקדם\\‏‏תיקיה חדשה\\Advanced-C-Project\\DalList\\DalList.csproj"
+            "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\Advanced-C-Project\\DalList\\DalList.csproj": {
+              "projectPath": "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\Advanced-C-Project\\DalList\\DalList.csproj"
             },
-            "C:\\לימודים\\יד\\C# מתקדם\\‏‏תיקיה חדשה\\Advanced-C-Project\\DalXml\\DalXml.csproj": {
-              "projectPath": "C:\\לימודים\\יד\\C# מתקדם\\‏‏תיקיה חדשה\\Advanced-C-Project\\DalXml\\DalXml.csproj"
+            "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\Advanced-C-Project\\DalXml\\DalXml.csproj": {
+              "projectPath": "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\Advanced-C-Project\\DalXml\\DalXml.csproj"
             }
           }
         }
@@ -155,7 +155,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -179,7 +179,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

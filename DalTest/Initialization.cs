@@ -23,7 +23,6 @@ public static class Initialization
     {
         // מוצר עם מזהה 123 כדי שהחיפוש ב-UI יצליח
         productCodes.Add(s_dal.Product.Create(new Product(123, "Coffee", category.Coffy, 10.5, 50)));
-
         productCodes.Add(s_dal.Product.Create(new Product(100001, "cola", category.Frozen_yogurt, 102.5, 45)));
         productCodes.Add(s_dal.Product.Create(new Product(107303, "Espresso", category.Coffy, 12.0, 40)));
         productCodes.Add(s_dal.Product.Create(new Product(100021, "Chocolate Cake", category.Cake, 15.5, 67)));
@@ -46,7 +45,6 @@ public static class Initialization
     {
         // קבלת המופע היחיד (Instance) של הנתונים
         s_dal = DalList.DalList.Instance;
-
         CreateCustomer();
         CreateProduct(); // חשוב: קודם ליצור מוצרים ורק אז הנחות
         CreateSale();

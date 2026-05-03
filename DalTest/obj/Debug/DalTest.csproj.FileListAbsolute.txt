@@ -118,3 +118,20 @@ C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Projec
 C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\DalTest.pdb
 C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
 C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\DalTest.exe
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\DalTest.deps.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\DalTest.runtimeconfig.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\DalTest.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\DalTest.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalTest\obj\Debug\DalTest.sourcelink.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalTest\obj\Debug\DalTest.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalTest\obj\Debug\DalTest.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalTest\obj\Debug\ref\DalTest.dll

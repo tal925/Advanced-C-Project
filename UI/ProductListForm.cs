@@ -31,17 +31,17 @@ namespace UI
                 // 2. סינון הרשימה במידה ונבחרה קטגוריה
                 if (filter != null)
                 {
-                    products = products.Where(p => (BO.Category)p.category == filter);
+                    products = products.Where(p => (BO.Category)p.Category == filter);
                 }
 
                 // 3. עדכון הטבלה עם אובייקטים אנונימיים (כמו בלקוחות)
                 dataGridView1.DataSource = products.Select(p => new
                 {
-                    Barcode = p.barcode,
-                    Name = p.name,
-                    Category = p.category,
-                    Price = p.price,
-                    Amount = p.amount
+                    Barcode = p.ID,
+                    Name = p.Name,
+                    Category = p.Category,
+                    Price = p.Price,
+                    Amount = p.Amount
                 }).ToList();
 
                 dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;

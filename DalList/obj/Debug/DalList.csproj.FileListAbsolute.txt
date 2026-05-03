@@ -105,3 +105,17 @@ C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Projec
 C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\refint\DalList.dll
 C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.pdb
 C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\ref\DalList.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\DalList.deps.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\DalList.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\DalList.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.sourcelink.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\refint\DalList.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\ref\DalList.dll

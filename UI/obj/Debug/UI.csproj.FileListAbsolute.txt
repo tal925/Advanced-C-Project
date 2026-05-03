@@ -60,3 +60,31 @@ C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Projec
 C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.AssemblyInfo.cs
 C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
 C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.sourcelink.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.CustomerForm.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.CustomerListForm.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.ManagerForm.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.OrderForm.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.ProductForm.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.ProductListForm.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.ProductSelectionForm.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.SaleForm.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.SaleListFrom.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.WelcomeForm.resources
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.sourcelink.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\UI.exe
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\UI.deps.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\UI.runtimeconfig.json
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\UI.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\UI.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\refint\UI.dll
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.pdb
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\UI\obj\Debug\ref\UI.dll

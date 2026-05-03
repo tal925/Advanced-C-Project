@@ -1,106 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\",
+  "WorkspaceRootPath": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\users\\\u05D1\u05D9\u05EA\\pictures\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\advanced-c-project\\ui\\customerlistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\customerlistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\users\\\u05D1\u05D9\u05EA\\pictures\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\advanced-c-project\\ui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\ui\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\users\\\u05D1\u05D9\u05EA\\pictures\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\advanced-c-project\\ui\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\ui\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\users\\\u05D1\u05D9\u05EA\\pictures\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\advanced-c-project\\ui\\salelistfrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\salelistfrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\ui\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\ui\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5F2D3B6-9178-45D3-A330-1BA2B8E1AC65}|DalList\\DalList.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dallist\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F2D3B6-9178-45D3-A330-1BA2B8E1AC65}|DalList\\DalList.csproj|solutionrelative:dallist\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A9F8CF9-C8E8-4AA7-A734-DB31D8FEA180}|DalTest\\DalTest.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\daltest\\initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A9F8CF9-C8E8-4AA7-A734-DB31D8FEA180}|DalTest\\DalTest.csproj|c:\\users\\\u05D1\u05D9\u05EA\\pictures\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\advanced-c-project\\daltest\\initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A9F8CF9-C8E8-4AA7-A734-DB31D8FEA180}|DalTest\\DalTest.csproj|solutionrelative:daltest\\initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E10191D-6222-4FD5-9EA6-3E7B840AF576}|DalXml\\DalXml.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dalxml\\customerimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E10191D-6222-4FD5-9EA6-3E7B840AF576}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\customerimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\ui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5F2D3B6-9178-45D3-A330-1BA2B8E1AC65}|DalList\\DalList.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dallist\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F2D3B6-9178-45D3-A330-1BA2B8E1AC65}|DalList\\DalList.csproj|solutionrelative:dallist\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\users\\\u05D1\u05D9\u05EA\\pictures\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\advanced-c-project\\ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D38A91-E801-4CBE-804C-75912766F9A2}|DalFacade\\DalFacade.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dalfacade\\dalapi\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D38A91-E801-4CBE-804C-75912766F9A2}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\dalapi\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\users\\\u05D1\u05D9\u05EA\\pictures\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\advanced-c-project\\ui\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D38A91-E801-4CBE-804C-75912766F9A2}|DalFacade\\DalFacade.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dalfacade\\dalapi\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D38A91-E801-4CBE-804C-75912766F9A2}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\dalapi\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\users\\\u05D1\u05D9\u05EA\\pictures\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\advanced-c-project\\ui\\productselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\productselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D38A91-E801-4CBE-804C-75912766F9A2}|DalFacade\\DalFacade.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dalfacade\\dalapi\\iproduct (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D38A91-E801-4CBE-804C-75912766F9A2}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\dalapi\\iproduct (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\ui\\productselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\productselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5F2D3B6-9178-45D3-A330-1BA2B8E1AC65}|DalList\\DalList.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dallist\\prodactimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\ui\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\users\\\u05D1\u05D9\u05EA\\pictures\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\advanced-c-project\\ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\users\\\u05D1\u05D9\u05EA\\pictures\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\advanced-c-project\\ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\users\\\u05D1\u05D9\u05EA\\pictures\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\advanced-c-project\\ui\\customerlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\customerlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\ui\\customerlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\customerlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F2D3B6-9178-45D3-A330-1BA2B8E1AC65}|DalList\\DalList.csproj|c:\\users\\\u05D1\u05D9\u05EA\\pictures\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\advanced-c-project\\dallist\\prodactimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5F2D3B6-9178-45D3-A330-1BA2B8E1AC65}|DalList\\DalList.csproj|solutionrelative:dallist\\prodactimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E10191D-6222-4FD5-9EA6-3E7B840AF576}|DalXml\\DalXml.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dalxml\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E10191D-6222-4FD5-9EA6-3E7B840AF576}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E10191D-6222-4FD5-9EA6-3E7B840AF576}|DalXml\\DalXml.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dalxml\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E10191D-6222-4FD5-9EA6-3E7B840AF576}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E10191D-6222-4FD5-9EA6-3E7B840AF576}|DalXml\\DalXml.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dalxml\\dalxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E10191D-6222-4FD5-9EA6-3E7B840AF576}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\dalxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72D38A91-E801-4CBE-804C-75912766F9A2}|DalFacade\\DalFacade.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dalfacade\\dalapi\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D38A91-E801-4CBE-804C-75912766F9A2}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\dalapi\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72D38A91-E801-4CBE-804C-75912766F9A2}|DalFacade\\DalFacade.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dalfacade\\dalapi\\icustomer (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D38A91-E801-4CBE-804C-75912766F9A2}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\dalapi\\icustomer (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E10191D-6222-4FD5-9EA6-3E7B840AF576}|DalXml\\DalXml.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dalxml\\xmltools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E10191D-6222-4FD5-9EA6-3E7B840AF576}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\xmltools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5F2D3B6-9178-45D3-A330-1BA2B8E1AC65}|DalList\\DalList.csproj|c:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\c# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advanced-c-project\\dallist\\castemerimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F2D3B6-9178-45D3-A330-1BA2B8E1AC65}|DalList\\DalList.csproj|solutionrelative:dallist\\castemerimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|c:\\users\\\u05D1\u05D9\u05EA\\pictures\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\advanced-c-project\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8FD9FE1-1A9D-4DE7-AD6C-8A67B3912047}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,300 +90,238 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 14,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\Program.cs",
-              "RelativeDocumentMoniker": "UI\\Program.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\Program.cs",
-              "RelativeToolTip": "UI\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T14:11:23.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderForm.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\OrderForm.cs",
-              "RelativeDocumentMoniker": "UI\\OrderForm.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\OrderForm.cs",
-              "RelativeToolTip": "UI\\OrderForm.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAlwAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T14:04:50.423Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductForm.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\ProductForm.cs",
-              "RelativeDocumentMoniker": "UI\\ProductForm.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\ProductForm.cs",
-              "RelativeToolTip": "UI\\ProductForm.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAgwE4AAAAAAAAAAAAAAA==",
+              "Title": "Initialization.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\DalTest\\Initialization.cs",
+              "RelativeDocumentMoniker": "DalTest\\Initialization.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\DalTest\\Initialization.cs",
+              "RelativeToolTip": "DalTest\\Initialization.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T14:01:31.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T18:31:45.441Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductForm.cs [Design]",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\ProductForm.cs",
-              "RelativeDocumentMoniker": "UI\\ProductForm.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\ProductForm.cs [Design]",
-              "RelativeToolTip": "UI\\ProductForm.cs [Design]",
+              "Title": "SaleListFrom.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\SaleListFrom.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\SaleListFrom.Designer.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\SaleListFrom.Designer.cs",
+              "RelativeToolTip": "UI\\SaleListFrom.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T13:50:55.978Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-03T18:26:26.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ManagerForm.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\ManagerForm.cs",
-              "RelativeDocumentMoniker": "UI\\ManagerForm.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\ManagerForm.cs",
-              "RelativeToolTip": "UI\\ManagerForm.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAhwCAAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "UI\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "UI\\CustomerForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T13:08:12.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductListForm.cs [Design]",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\ProductListForm.cs",
-              "RelativeDocumentMoniker": "UI\\ProductListForm.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\ProductListForm.cs [Design]",
-              "RelativeToolTip": "UI\\ProductListForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T13:39:39.143Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ManagerForm.cs [Design]",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\ManagerForm.cs",
-              "RelativeDocumentMoniker": "UI\\ManagerForm.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\ManagerForm.cs [Design]",
-              "RelativeToolTip": "UI\\ManagerForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T13:05:34.564Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-03T18:23:36.609Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "WelcomeForm.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\WelcomeForm.cs",
-              "RelativeDocumentMoniker": "UI\\WelcomeForm.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\WelcomeForm.cs",
-              "RelativeToolTip": "UI\\WelcomeForm.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAMwCIAAAAVAAAAAAAAAA==",
+              "Title": "ProductSelectionForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ProductSelectionForm.cs",
+              "RelativeDocumentMoniker": "UI\\ProductSelectionForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ProductSelectionForm.cs",
+              "RelativeToolTip": "UI\\ProductSelectionForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T13:04:12.399Z",
+              "WhenOpened": "2026-05-03T17:42:02.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "WelcomeForm.cs [Design]",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\WelcomeForm.cs",
-              "RelativeDocumentMoniker": "UI\\WelcomeForm.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\WelcomeForm.cs [Design]",
-              "RelativeToolTip": "UI\\WelcomeForm.cs [Design]",
+              "Title": "ProductSelectionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ProductSelectionForm.cs",
+              "RelativeDocumentMoniker": "UI\\ProductSelectionForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ProductSelectionForm.cs [Design]",
+              "RelativeToolTip": "UI\\ProductSelectionForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T13:02:39.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CastemerImplementation.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalList\\CastemerImplementation.cs",
-              "RelativeDocumentMoniker": "DalList\\CastemerImplementation.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalList\\CastemerImplementation.cs",
-              "RelativeToolTip": "DalList\\CastemerImplementation.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T13:00:01.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Initialization.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalTest\\Initialization.cs",
-              "RelativeDocumentMoniker": "DalTest\\Initialization.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalTest\\Initialization.cs",
-              "RelativeToolTip": "DalTest\\Initialization.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:57:58.326Z"
+              "WhenOpened": "2026-05-03T17:42:00.199Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "SaleImplementation.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalList\\SaleImplementation.cs",
-              "RelativeDocumentMoniker": "DalList\\SaleImplementation.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalList\\SaleImplementation.cs",
-              "RelativeToolTip": "DalList\\SaleImplementation.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "Title": "ProductListForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ProductListForm.cs",
+              "RelativeDocumentMoniker": "UI\\ProductListForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ProductListForm.cs [Design]",
+              "RelativeToolTip": "UI\\ProductListForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:45:40.725Z"
+              "WhenOpened": "2026-05-03T17:41:20.297Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DataSource.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalList\\DataSource.cs",
-              "RelativeDocumentMoniker": "DalList\\DataSource.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalList\\DataSource.cs",
-              "RelativeToolTip": "DalList\\DataSource.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ProductForm.cs",
+              "RelativeDocumentMoniker": "UI\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ProductForm.cs",
+              "RelativeToolTip": "UI\\ProductForm.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:45:38.065Z"
+              "WhenOpened": "2026-05-03T17:41:12.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "CustomerImplementation.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalXml\\CustomerImplementation.cs",
-              "RelativeDocumentMoniker": "DalXml\\CustomerImplementation.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalXml\\CustomerImplementation.cs",
-              "RelativeToolTip": "DalXml\\CustomerImplementation.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAD4vwAAAAAAAAAAAAAAAA==",
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ProductForm.cs",
+              "RelativeDocumentMoniker": "UI\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ProductForm.cs [Design]",
+              "RelativeToolTip": "UI\\ProductForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:44:15.948Z"
+              "WhenOpened": "2026-05-03T17:41:10.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProdactImplementation.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalList\\ProdactImplementation.cs",
-              "RelativeDocumentMoniker": "DalList\\ProdactImplementation.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalList\\ProdactImplementation.cs",
-              "RelativeToolTip": "DalList\\ProdactImplementation.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\OrderForm.cs",
+              "RelativeDocumentMoniker": "UI\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\OrderForm.cs",
+              "RelativeToolTip": "UI\\OrderForm.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:43:36.251Z",
+              "WhenOpened": "2026-05-03T17:41:04.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\OrderForm.cs",
+              "RelativeDocumentMoniker": "UI\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\OrderForm.cs [Design]",
+              "RelativeToolTip": "UI\\OrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:41:02.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaleForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\SaleForm.cs",
+              "RelativeDocumentMoniker": "UI\\SaleForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\SaleForm.cs",
+              "RelativeToolTip": "UI\\SaleForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAD4vyMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T16:57:36.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManagerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "UI\\ManagerForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ManagerForm.cs [Design]",
+              "RelativeToolTip": "UI\\ManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T16:50:56.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "UI\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\CustomerForm.cs",
+              "RelativeToolTip": "UI\\CustomerForm.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T16:43:58.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerListForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\CustomerListForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\CustomerListForm.Designer.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\CustomerListForm.Designer.cs",
+              "RelativeToolTip": "UI\\CustomerListForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T16:35:56.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "IProduct (1).cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalFacade\\DalApi\\IProduct (1).cs",
-              "RelativeDocumentMoniker": "DalFacade\\DalApi\\IProduct (1).cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalFacade\\DalApi\\IProduct (1).cs",
-              "RelativeToolTip": "DalFacade\\DalApi\\IProduct (1).cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "CustomerListForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\CustomerListForm.cs",
+              "RelativeDocumentMoniker": "UI\\CustomerListForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\CustomerListForm.cs",
+              "RelativeToolTip": "UI\\CustomerListForm.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwEcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:43:44.17Z"
+              "WhenOpened": "2026-05-03T16:35:12.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IDal.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalFacade\\DalApi\\IDal.cs",
-              "RelativeDocumentMoniker": "DalFacade\\DalApi\\IDal.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalFacade\\DalApi\\IDal.cs",
-              "RelativeToolTip": "DalFacade\\DalApi\\IDal.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "CustomerListForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\CustomerListForm.cs",
+              "RelativeDocumentMoniker": "UI\\CustomerListForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\CustomerListForm.cs [Design]",
+              "RelativeToolTip": "UI\\CustomerListForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:43:45.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICrud.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalFacade\\DalApi\\ICrud.cs",
-              "RelativeDocumentMoniker": "DalFacade\\DalApi\\ICrud.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalFacade\\DalApi\\ICrud.cs",
-              "RelativeToolTip": "DalFacade\\DalApi\\ICrud.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:43:47.137Z"
+              "WhenOpened": "2026-05-03T16:30:06.448Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "SaleImplementation.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalXml\\SaleImplementation.cs",
-              "RelativeDocumentMoniker": "DalXml\\SaleImplementation.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalXml\\SaleImplementation.cs",
-              "RelativeToolTip": "DalXml\\SaleImplementation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProdactImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\DalList\\ProdactImplementation.cs",
+              "RelativeDocumentMoniker": "DalList\\ProdactImplementation.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\DalList\\ProdactImplementation.cs",
+              "RelativeToolTip": "DalList\\ProdactImplementation.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:44:27.015Z"
+              "WhenOpened": "2026-05-03T14:20:01.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManagerForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "UI\\ManagerForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ManagerForm.cs",
+              "RelativeToolTip": "UI\\ManagerForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:19:22.864Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "ProductImplementation.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalXml\\ProductImplementation.cs",
-              "RelativeDocumentMoniker": "DalXml\\ProductImplementation.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalXml\\ProductImplementation.cs",
-              "RelativeToolTip": "DalXml\\ProductImplementation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:44:23.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DalXml.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalXml\\DalXml.cs",
-              "RelativeDocumentMoniker": "DalXml\\DalXml.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalXml\\DalXml.cs",
-              "RelativeToolTip": "DalXml\\DalXml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:44:20.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Factory.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalFacade\\DalApi\\Factory.cs",
-              "RelativeDocumentMoniker": "DalFacade\\DalApi\\Factory.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalFacade\\DalApi\\Factory.cs",
-              "RelativeToolTip": "DalFacade\\DalApi\\Factory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:43:47.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ICustomer (1).cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalFacade\\DalApi\\ICustomer (1).cs",
-              "RelativeDocumentMoniker": "DalFacade\\DalApi\\ICustomer (1).cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalFacade\\DalApi\\ICustomer (1).cs",
-              "RelativeToolTip": "DalFacade\\DalApi\\ICustomer (1).cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:43:46.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "XMLTools.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalXml\\XMLTools.cs",
-              "RelativeDocumentMoniker": "DalXml\\XMLTools.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\DalXml\\XMLTools.cs",
-              "RelativeToolTip": "DalXml\\XMLTools.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAqwAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T12:41:41.78Z"
+              "WhenOpened": "2026-05-03T14:11:23.301Z"
             }
           ]
         }
@@ -413,12 +331,12 @@
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "FloatingWindowState": {
-        "Id": "84dc1c28-f9fe-42c7-b663-a9ca8598eeee",
+        "Id": "eb4f20e2-1aeb-42ed-b147-2adcc48eceb0",
         "Display": 0,
-        "X": 986,
-        "Y": 814,
-        "Width": 853,
-        "Height": 568,
+        "X": 910,
+        "Y": 300,
+        "Width": 1150,
+        "Height": 644,
         "WindowState": 0
       },
       "DocumentGroups": [
@@ -428,15 +346,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ProductListForm.cs",
-              "DocumentMoniker": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\ProductListForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ProductListForm.cs",
               "RelativeDocumentMoniker": "UI\\ProductListForm.cs",
-              "ToolTip": "C:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D9\u05D3\\C# \u05DE\u05EA\u05E7\u05D3\u05DD\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advanced-C-Project\\UI\\ProductListForm.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05D9\u05EA\\Pictures\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\Advanced-C-Project\\UI\\ProductListForm.cs",
               "RelativeToolTip": "UI\\ProductListForm.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAlwCEAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T13:41:58.807Z",
+              "WhenOpened": "2026-05-03T17:41:22.577Z",
               "EditorCaption": ""
             }
           ]
