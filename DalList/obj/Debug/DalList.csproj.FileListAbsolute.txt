@@ -91,3 +91,17 @@ C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanc
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\refint\DalList.dll
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\DalList.pdb
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\ref\DalList.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\DalList.deps.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\DalList.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\DalList.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.sourcelink.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\refint\DalList.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\ref\DalList.dll

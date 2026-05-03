@@ -21,8 +21,8 @@ namespace Dal
             public static int GetProductId { get { return productNum++; } }
 
             // Sale id (new counter)
-            private static int saleNum = 200000;
-            public static int GetSaleId { get { return saleNum++; } }
+            //private static int saleNum = 200000;
+            //public static int GetSaleId { get { return saleNum++; } }
         }
     }
 }

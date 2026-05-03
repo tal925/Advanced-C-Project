@@ -13,7 +13,7 @@ internal class SaleImplementation : ISale
     /// </summary>
     public int Create(Sale item)
     {
-        int newId = DataSource.Config.GetSaleId;
+        int newId = DataSource.Config.GetId;
 
         // בדיקה אם קיימת מכירה עם אותו מזהה (idProduct) — לפי ההנחה idProduct הוא המפתח
         if (DataSource.Sales.Any(s => s != null && s.idProduct == newId))

@@ -1,0 +1,85 @@
+﻿namespace UI
+{
+    partial class ManagerForm
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            ProductManagementButton = new Button();
+            ClientManagementButton = new Button();
+            SaleManagementButton = new Button();
+            SuspendLayout();
+            // 
+            // ProductManagementButton
+            // 
+            ProductManagementButton.Location = new Point(672, 67);
+            ProductManagementButton.Name = "ProductManagementButton";
+            ProductManagementButton.Size = new Size(94, 29);
+            ProductManagementButton.TabIndex = 0;
+            ProductManagementButton.Text = "Product";
+            ProductManagementButton.UseVisualStyleBackColor = true;
+            ProductManagementButton.Click += ProductManagementButton_Click;
+            // 
+            // ClientManagementButton
+            // 
+            ClientManagementButton.Location = new Point(672, 135);
+            ClientManagementButton.Name = "ClientManagementButton";
+            ClientManagementButton.Size = new Size(94, 29);
+            ClientManagementButton.TabIndex = 1;
+            ClientManagementButton.Text = "Customer";
+            ClientManagementButton.UseVisualStyleBackColor = true;
+            ClientManagementButton.Click += ClientManagementButton_Click;
+            // 
+            // SaleManagementButton
+            // 
+            SaleManagementButton.Location = new Point(672, 214);
+            SaleManagementButton.Name = "SaleManagementButton";
+            SaleManagementButton.Size = new Size(94, 29);
+            SaleManagementButton.TabIndex = 2;
+            SaleManagementButton.Text = "Sale";
+            SaleManagementButton.UseVisualStyleBackColor = true;
+            SaleManagementButton.Click += SaleManagementButton_Click;
+            // 
+            // ManagerForm
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(SaleManagementButton);
+            Controls.Add(ClientManagementButton);
+            Controls.Add(ProductManagementButton);
+            Name = "ManagerForm";
+            Text = "ManagerForm";
+            ResumeLayout(false);
+        }
+
+        #endregion
+
+        private Button ProductManagementButton;
+        private Button ClientManagementButton;
+        private Button SaleManagementButton;
+    }
+}

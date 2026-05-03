@@ -19,7 +19,7 @@ internal class ProductImplementation : BlApi.IProduct
         try
         {
             var doProd = _dal.Product.Read(Id);
-            if (doProd == null) throw new BO.BlDoesNotExistException($"Product {Id} not found");
+            if (doProd == null) throw new BO.BLDoesNotExistException($"Product {Id} not found");
 
             var bo = doProd.ToBO();
 
@@ -37,7 +37,7 @@ internal class ProductImplementation : BlApi.IProduct
         }
         catch (Exception ex)
         {
-            throw new BO.BlDoesNotExistException($"Product {Id} not found", ex);
+            throw new BO.BLDoesNotExistException($"Product {Id} not found", ex);
         }
     }
     /// <summary>
@@ -61,7 +61,7 @@ internal class ProductImplementation : BlApi.IProduct
         }
         catch (Exception ex)
         {
-            throw new BO.BlAlreadyExistsException($"Product {product.ID} already exists", ex);
+            throw new BO.BLDoesNotExistException($"Product {product.ID} already exists", ex);
         }
     }
     /// <summary>
@@ -77,14 +77,14 @@ internal class ProductImplementation : BlApi.IProduct
         }
         catch (Exception ex)
         {
-            throw new BO.BlDoesNotExistException($"Product {product.ID} not found", ex);
+            throw new BO.BLDoesNotExistException($"Product {product.ID} not found", ex);
         }
     }
 
     public void Delete(int id)
     {
         try { _dal.Product.Delete(id); }
-        catch (Exception ex) { throw new BO.BlDoesNotExistException($"Delete failed for {id}", ex); }
+        catch (Exception ex) { throw new BO.BLDoesNotExistException($"Delete failed for {id}", ex); }
     }
     /// <summary>
     ///     הפעולה הזו מאפשרת לחפש אם יש מכירה קיימת עבור מוצר מסוים, היא מקבלת את מזהה המוצר ומנסה לקרוא את המכירה מ-DAL. אם אין מכירה עבור המוצר, היא תחזיר null

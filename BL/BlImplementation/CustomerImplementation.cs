@@ -9,7 +9,7 @@ namespace BlImplementation;
 /// </summary>
 internal class CustomerImplementation : BlApi.ICustomer
 {
-    readonly DalApi.IDal _dal = DalApi.Factory.Get;
+    private readonly DalApi.IDal _dal = DalApi.Factory.Get;
     /// <summary>
     /// הפעולה הזו מאפשרת להוסיף לקוח חדש ל-BL, היא מקבלת אובייקט של לקוח ומנסה ליצור אותו ב-DAL. אם הלקוח כבר קיים, היא תזרוק חריגה מתאימה
     /// </summary>
@@ -23,7 +23,7 @@ internal class CustomerImplementation : BlApi.ICustomer
         }
         catch (Exception ex)
         {
-            throw new BO.BlAlreadyExistsException($"Customer {customer.ID} already exists", ex);
+            throw new BO.BLDoesNotExistException($"Customer {customer.ID} already exists", ex);
         }
     }
     /// <summary>
@@ -34,7 +34,7 @@ internal class CustomerImplementation : BlApi.ICustomer
     public void Delete(int id)
     {
         try { _dal.customer.Delete(id); }
-        catch (Exception ex) { throw new BO.BlDoesNotExistException($"Customer {id} not found", ex); }
+        catch (Exception ex) { throw new BO.BLDoesNotExistException($"Customer {id} not found", ex); }
     }
     /// <summary>
     /// הפעולה הזו מאפשרת לקבל מידע על לקוח קיים ב-BL, היא מקבלת את מזהה הלקוח ומנסה לקרוא אותו מ-DAL. אם הלקוח לא קיים, היא תזרוק חריגה מתאימה
@@ -47,10 +47,10 @@ internal class CustomerImplementation : BlApi.ICustomer
         try
         {
             var c = _dal.customer.Read(id);
-            if (c == null) throw new BO.BlDoesNotExistException($"Customer {id} not found");
+            if (c == null) throw new BO.BLDoesNotExistException($"Customer {id} not found");
             return c.ToBO();
         }
-        catch (Exception ex) { throw new BO.BlDoesNotExistException("Not found", ex); }
+        catch (Exception ex) { throw new BO.BLDoesNotExistException("Not found", ex); }
     }
     /// <summary>
     /// הפעולה הזו מאפשרת לקבל רשימה של כל הלקוחות הקיימים ב-BL, היא קוראת את כל הלקוחות מ-DAL וממירה אותם לאובייקטים של לקוח ב-BL. אם אין לקוחות, היא תחזיר רשימה ריקה
@@ -71,7 +71,13 @@ internal class CustomerImplementation : BlApi.ICustomer
         {
             _dal.customer.Update(customer.ToDO());
         }
-        catch (Exception ex) { throw new BO.BlDoesNotExistException("Update failed", ex); }
+        catch (Exception ex) { throw new BO.BLDoesNotExistException("Update failed", ex); }
+    }
+
+    /// בדיקה האם לקוח קיים במערכת
+    public bool ExistingCustomer(int id)
+    {
+        return _dal.customer.Read(id) != null;
     }
 
 }

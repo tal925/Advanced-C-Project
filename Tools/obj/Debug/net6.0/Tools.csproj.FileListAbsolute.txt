@@ -66,3 +66,15 @@ C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanc
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\Tools\obj\Debug\net6.0\refint\Tools.dll
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\Tools\obj\Debug\net6.0\Tools.pdb
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\Tools\obj\Debug\net6.0\ref\Tools.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\Tools\bin\Debug\net6.0\Tools.deps.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\Tools\bin\Debug\net6.0\Tools.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\Tools\bin\Debug\net6.0\Tools.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\Tools\obj\Debug\net6.0\Tools.sourcelink.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\Tools\obj\Debug\net6.0\Tools.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\Tools\obj\Debug\net6.0\refint\Tools.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\Tools\obj\Debug\net6.0\Tools.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\Tools\obj\Debug\net6.0\ref\Tools.dll

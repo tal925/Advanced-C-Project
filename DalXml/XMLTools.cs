@@ -1,15 +1,32 @@
 ﻿using System.Xml.Serialization;
 using System.Xml.Linq;
+using System.IO;
 
 namespace Dal;
 
 public static class XMLTools
 {
-    const string s_xml_dir = @"..\xml\";
+    // Determine xml directory by searching upward from the app base directory.
+    private static string GetXmlDir()
+    {
+        // start from the application's base directory (where the exe runs)
+        var dir = AppContext.BaseDirectory;
+        for (int i = 0; i < 10; i++)
+        {
+            var candidate = Path.Combine(dir, "xml");
+            if (Directory.Exists(candidate)) return candidate + Path.DirectorySeparatorChar;
+            var parent = Directory.GetParent(dir);
+            if (parent == null) break;
+            dir = parent.FullName;
+        }
+        // fallback to relative path used previously
+        return Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "..", "xml")) + Path.DirectorySeparatorChar;
+    }
 
     public static void SaveListToXMLSerializer<T>(List<T> list, string entityName) where T : class
     {
-        string filePath = $"{s_xml_dir}{entityName}s.xml";
+        var s_xml_dir = GetXmlDir();
+        string filePath = Path.Combine(s_xml_dir, $"{entityName}s.xml");
         try
         {
             using FileStream file = new(filePath, FileMode.Create, FileAccess.Write);
@@ -23,7 +40,8 @@ public static class XMLTools
 
     public static List<T> LoadListFromXMLSerializer<T>(string entityName) where T : class
     {
-        string filePath = $"{s_xml_dir}{entityName}s.xml";
+        var s_xml_dir = GetXmlDir();
+        string filePath = Path.Combine(s_xml_dir, $"{entityName}s.xml");
         try
         {
             if (!File.Exists(filePath)) return new List<T>();
@@ -39,10 +57,12 @@ public static class XMLTools
 
     public static int GetAndIncrementNextId(string filePath, string elemName)
     {
-        XElement root = XElement.Load($@"{s_xml_dir}{filePath}.xml");
+        var s_xml_dir = GetXmlDir();
+        var fullPath = Path.Combine(s_xml_dir, $"{filePath}.xml");
+        XElement root = XElement.Load(fullPath);
         int nextId = (int)root.Element(elemName)!;
         root.Element(elemName)!.SetValue(nextId + 1);
-        root.Save($@"{s_xml_dir}{filePath}.xml");
+        root.Save(fullPath);
         return nextId;
     }
 }

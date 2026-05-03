@@ -14,10 +14,18 @@ internal class ProdactImplementation : IProduct
     public int Create(Product item)
     {
         LogManager.WriteToLog("DalList", "Create", "Started creating a new product");
-        if (DataSource.Prodacts.Any(p => p != null && p.id == item.id))
+        // אם caller סיפק מזהה לא-אפס ונמצא פנוי - נשמור אותו כפי שהוא
+        if (item.id != 0)
         {
-            LogManager.WriteToLog("DalList", "Create", $"ERROR: Product with ID {item.id} already exists");
-            throw new Exception("The product exists in the list");
+            if (DataSource.Prodacts.Any(p => p != null && p.id == item.id))
+            {
+                LogManager.WriteToLog("DalList", "Create", $"ERROR: Product with ID {item.id} already exists");
+                throw new Exception("The product exists in the list");
+            }
+
+            DataSource.Prodacts.Add(item);
+            LogManager.WriteToLog("DalList", "Create", $"Finished. Created product ID: {item.id}");
+            return item.id;
         }
 
         // יצירת מזהה חדש והוספה לרשימה (now uses product counter)

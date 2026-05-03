@@ -124,27 +124,86 @@ class Program
     #region Order & Sale Menus
     static void OrderMenu()
     {
-        Console.WriteLine("\nOrder Options: b. Get, c. GetList, d. Update");
-        //ביצוע הזמנה: הכנסת מספר לקוח, בדיקה האם לקוח מועדון (שמור ברשימת הלקוחות) או לא
-        //בכל שלב - אפשרות להוספת מוצר להזמנה או סיום ההסמנה.
-        //בהוספת מוצר מוסיף קוד מוצר וכמות ומעדכן את הסכום לתשלום אחרי חישוב המבצעים
-        //בסיום ההזמנה מציג את המחיר הסופי לתשלום ומציע לבצע הזמנה חדשהד
-        //string choice = Console.ReadLine()!;
-        //try
-        //{
-        //    switch (choice)
-        //    {
-        //        case "b":
-        //            Console.Write("Enter Order ID: ");
-        //            int id = int.Parse(Console.ReadLine()!);
-        //            //Console.WriteLine(s_bl.Order.Get(id));
-        //            break;
-        //        case "c":
-        //            foreach (var item in s_bl.Order.GetList()) Console.WriteLine(item);
-        //            break;
-        //    }
-        //}
-        //catch (Exception ex) { PrintError(ex); }
+        Console.WriteLine("\nOrder Options: a. Place Order, 0. Back");
+        string choice = Console.ReadLine()!;
+        try
+        {
+            switch (choice)
+            {
+                case "a":
+                    Console.Write("Enter Customer ID (or 0 for guest): ");
+                    int custId = int.Parse(Console.ReadLine()!);
+                    bool isFavorite = false;
+                    if (custId != 0)
+                    {
+                        // check if customer exists in BL (treat as club member if exists)
+                        isFavorite = s_bl.Customer.ExistingCustomer(custId);
+                        if (!isFavorite) Console.WriteLine("Customer not found - continuing as guest.");
+                    }
+
+                    var order = new BO.Order { ifFavorite = isFavorite, Items = new List<BO.ProductInOrder>() };
+
+                    while (true)
+                    {
+                        Console.Write("Enter product ID to add (or 'done' to finish): ");
+                        var prodInput = Console.ReadLine()!;
+                        if (prodInput.Trim().ToLower() == "done") break;
+
+                        if (!int.TryParse(prodInput, out int prodId))
+                        {
+                            Console.WriteLine("Invalid product id, try again.");
+                            continue;
+                        }
+
+                        Console.Write("Enter amount: ");
+                        if (!int.TryParse(Console.ReadLine()!, out int amount) || amount <= 0)
+                        {
+                            Console.WriteLine("Invalid amount, try again.");
+                            continue;
+                        }
+
+                        // Call BL method that adds the product(s) and returns applied sales.
+                        // The BL implementation updates `order` in-place; the method returns List<BO.SaleInProduct>.
+                        try
+                        {
+                            var appliedSales = ((dynamic)s_bl.Order).AddProductToOrder(order, prodId, amount);
+                            if (appliedSales is System.Collections.Generic.List<BO.SaleInProduct> sales && sales.Count > 0)
+                            {
+                                Console.WriteLine("Applied sales for this product:");
+                                foreach (var sale in sales) Console.WriteLine(sale);
+                            }
+                        }
+                        catch
+                        {
+                            var appliedSales = s_bl.Order.AddProductToOrder(order, prodId, amount);
+                            if (appliedSales != null && appliedSales.Count > 0)
+                            {
+                                Console.WriteLine("Applied sales for this product:");
+                                foreach (var sale in appliedSales) Console.WriteLine(sale);
+                            }
+                        }
+
+                        Console.WriteLine($"Current total: {order.TotalPrice}");
+                    }
+
+                    Console.WriteLine($"Final total: {order.TotalPrice}");
+                    Console.Write("Complete order and update stock? (y/n): ");
+                    var confirm = Console.ReadLine()!;
+                    if (confirm.Trim().ToLower() == "y")
+                    {
+                        s_bl.Order.DoOrder(order);
+                        Console.WriteLine("Order completed and stock updated.");
+                    }
+                    else Console.WriteLine("Order canceled.");
+                    break;
+                case "0":
+                    break;
+                default:
+                    Console.WriteLine("Invalid choice.");
+                    break;
+            }
+        }
+        catch (Exception ex) { PrintError(ex); }
     }
 
     static void SaleMenu()

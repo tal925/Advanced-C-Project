@@ -16,10 +16,18 @@ internal class CastemerImplementation : ICustomer
         LogManager.WriteToLog("DalList", "Create", "Started creating a new customer");
         try
         {
-            if (DataSource.Customers.Any(c => c != null && c.id == item.id))
+            // אם caller סיפק מזהה (לא 0) נשתמש בו אם הוא פנוי, אחרת ניצור מזהה חדש
+            if (item.id != 0)
             {
-                LogManager.WriteToLog("DalList", "Create", $"ERROR: Customer with ID {item.id} already exists");
-                throw new Exception("This customer exists in the customers list");
+                if (DataSource.Customers.Any(c => c != null && c.id == item.id))
+                {
+                    LogManager.WriteToLog("DalList", "Create", $"ERROR: Customer with ID {item.id} already exists");
+                    throw new Exception("This customer exists in the customers list");
+                }
+
+                DataSource.Customers.Add(item);
+                LogManager.WriteToLog("DalList", "Create", $"Finished. Created customer ID: {item.id}");
+                return item.id;
             }
 
             int newId = DataSource.Config.GetId;

@@ -78,3 +78,15 @@ C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanc
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalFacade\obj\Debug\net6.0\refint\DalFacade.dll
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalFacade\obj\Debug\net6.0\DalFacade.pdb
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalFacade\obj\Debug\net6.0\ref\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\Debug\net6.0\DalFacade.deps.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\Debug\net6.0\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\Debug\net6.0\DalFacade.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalFacade\obj\Debug\net6.0\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfoInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalFacade\obj\Debug\net6.0\DalFacade.AssemblyInfo.cs
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalFacade\obj\Debug\net6.0\DalFacade.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalFacade\obj\Debug\net6.0\DalFacade.sourcelink.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalFacade\obj\Debug\net6.0\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalFacade\obj\Debug\net6.0\refint\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalFacade\obj\Debug\net6.0\DalFacade.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalFacade\obj\Debug\net6.0\ref\DalFacade.dll

@@ -47,3 +47,16 @@ C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanc
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.genruntimeconfig.cache
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\ref\UI.dll
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\UI\obj\Debug\UI.FormPayment.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.ManagerForm.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.OrderForm.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.ProductForm.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.ProductListForm.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.ProductSelectionForm.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.WelcomeForm.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\UI\obj\Debug\UI.sourcelink.json

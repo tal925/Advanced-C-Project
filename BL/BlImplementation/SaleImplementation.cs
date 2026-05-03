@@ -21,7 +21,7 @@ internal class SaleImplementation : BlApi.ISale
         }
         catch (Exception ex)
         {
-            throw new BO.BlAlreadyExistsException($"Sale for product {sale.ProductID} already exists", ex);
+            throw new BO.BLDoesNotExistException($"Sale for product {sale.ProductID} already exists", ex);
         }
     }
     /// <summary>
@@ -37,7 +37,7 @@ internal class SaleImplementation : BlApi.ISale
         }
         catch (Exception ex)
         {
-            throw new BO.BlDoesNotExistException("Update failed - sale not found", ex);
+            throw new BO.BLDoesNotExistException("Update failed - sale not found", ex);
         }
     }
     /// <summary>
@@ -51,12 +51,12 @@ internal class SaleImplementation : BlApi.ISale
         try
         {
             var s = _dal.Sale.Read(id);
-            if (s == null) throw new BO.BlDoesNotExistException($"Sale {id} not found");
+            if (s == null) throw new BO.BLDoesNotExistException($"Sale {id} not found");
             return s.ToBO();
         }
         catch (Exception ex)
         {
-            throw new BO.BlDoesNotExistException("Sale not found", ex);
+            throw new BO.BLDoesNotExistException("Sale not found", ex);
         }
     }
     /// <summary>
@@ -83,6 +83,6 @@ internal class SaleImplementation : BlApi.ISale
     public void Delete(int id)
     {
         try { _dal.Sale.Delete(id); }
-        catch (Exception ex) { throw new BO.BlDoesNotExistException("Sale not found", ex); }
+        catch (Exception ex) { throw new BO.BLDoesNotExistException("Sale not found", ex); }
     }
 }

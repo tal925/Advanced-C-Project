@@ -101,3 +101,20 @@ C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanc
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalTest\obj\Debug\DalTest.pdb
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
 C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalTest\obj\Debug\ref\DalTest.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\DalTest.exe
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\DalTest.deps.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\DalTest.runtimeconfig.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\DalTest.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\DalTest.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\DalTest.sourcelink.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\DalTest.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\refint\DalTest.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\DalTest.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalTest\obj\Debug\ref\DalTest.dll
