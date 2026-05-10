@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "h9JCMPRGQq4=",
+  "dgSpecHash": "ME3SjMBNzqMw18cBdMaOHAWMfeOajHD6p6fvH2PLBZYk4fOhcUb/qYYdhtxHfCjV62xGj7LXkihHuDqHvN/XrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\Advanced-C-Project\\DalTest\\DalTest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalTest\\DalTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

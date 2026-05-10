@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KDTqmV/zoSU=",
+  "dgSpecHash": "U/NnqfP8FC8XmSfDDTK8kr3epsmExyqZBIdpp5vkZa/GaeHXhzux7CqO+M5E/SL+KbPVrDSEBPbMkS80zn9XbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\Advanced-C-Project\\DalXml\\DalXml.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalXml\\DalXml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

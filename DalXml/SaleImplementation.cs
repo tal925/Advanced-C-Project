@@ -1,119 +1,105 @@
-﻿using System;
+﻿using DalApi;
+using DalXml;
+using System;
+using System.Collections.Generic;
 using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Xml.Linq;
+using System.Globalization;
 using Do;
-using Tools;
-using DalApi;
 
-namespace Dal;
-
-// מחלקה המכילה את הלוגיקה
-internal class SaleImplementation : ISale
+namespace Dal
 {
-    /// <summary>
-    /// יצירת מכירה חדשה ברשימת המכירות
-    /// </summary>
-    public int Create(Sale item)
+    internal class SaleImplementation : ISale
     {
-        int newId = DataSource.Config.GetId;
-
-        // בדיקה אם קיימת מכירה עם אותו מזהה (idProduct)
-        if (DataSource.Sales.Any(s => s != null && s.idProduct == newId))
+        string path = @"..\xml\sales.xml";
+        public int Create(Sale item)
         {
-            LogManager.WriteToLog("DalList", "Create", $"ERROR: Sale with product-id {newId} already exists");
-            throw new Exception("Sale with this id already exists");
+            XElement SaleRoot = XElement.Load(path);
+            int id = Config.ProductNum;
+            XElement s = new XElement("Sale",
+                         new XElement("SaleId", id),
+                         new XElement("ProductID", item.idProduct),
+                         new XElement("MinProductSale", item.pricesale),
+                         new XElement("SumPriceSale", item.count),
+                         new XElement("IfEveryOne", item.clob),
+                         new XElement("StartrSale", item.start.ToString("dd/MM/yyyy HH:mm:ss")),
+                         new XElement("EndSale", item.end.ToString("dd/MM/yyyy HH:mm:ss")));
+            SaleRoot.Add(s);
+            SaleRoot.Save(path);
+            return id;
         }
 
-        Sale newSale = item with { idProduct = newId };
-        DataSource.Sales.Add(newSale);
-        LogManager.WriteToLog("DalList", "Create", $"Finished. Created sale product-id: {newId}");
-        return newId;
+        public Sale? Read(int id)
+        {
+            XElement root = XElement.Load(path);
+            XElement? s = root.Elements("Sale").FirstOrDefault(x => (int?)x.Element("SaleId") == id);
+            if (s == null)
+                return null;
+            return new Sale
+            {
+                idProduct = (int)s.Element("SaleId")!,
+                //id = (int)s.Element("ProductID")!,
+                pricesale = (int)s.Element("MinProductSale")!,
+                count = (int)s.Element("SumPriceSale")!,
+                clob = (bool)s.Element("IfEveryOne")!,
+                start = (DateTime)s.Element("StartrSale")!,
+                end = (DateTime)s.Element("EndSale")!
+            };
+        }
+
+        public Sale? Read(Func<Sale, bool> filter)
+        {
+            return ReadAll().FirstOrDefault(filter);
+        }
+
+        public List<Sale> ReadAll(Func<Sale, bool>? filter = null)
+        {
+            XElement root = XElement.Load(path);
+            var list = root.Elements("Sale").Select(s => new Sale
+            {
+                idProduct = (int)s.Element("SaleId")!,
+                //ProductID = (int)s.Element("ProductID")!,
+                pricesale = (int)s.Element("MinProductSale")!,
+                count = (int)s.Element("SumPriceSale")!,
+                clob = (bool)s.Element("IfEveryOne")!,
+                start = DateTime.ParseExact(s.Element("StartrSale")!.Value, "dd/MM/yyyy HH:mm:ss", CultureInfo.InvariantCulture),
+                end = DateTime.ParseExact(s.Element("EndSale")!.Value, "dd/MM/yyyy HH:mm:ss", CultureInfo.InvariantCulture)
+            });
+
+            if (filter == null) return list.ToList();
+            return list.Where(filter).ToList();
+        }
+
+        public void Update(Sale item)
+        {
+            XElement root = XElement.Load(path);
+            XElement? s = root.Elements("Sale").FirstOrDefault(x => (int?)x.Element("SaleId") == item.idProduct);
+
+            if (s == null) return;
+
+            s.Element("ProductID")!.Value = item.idProduct.ToString();
+            s.Element("MinProductSale")!.Value = item.pricesale.ToString();
+            s.Element("SumPriceSale")!.Value = item.count.ToString();
+            s.Element("IfEveryOne")!.Value = item.clob.ToString().ToLower();
+            s.Element("StartrSale")!.Value = item.start.ToString("dd/MM/yyyy HH:mm:ss");
+            s.Element("EndSale")!.Value = item.end.ToString("dd/MM/yyyy HH:mm:ss"); root.Save(path);
+        }
+        public void Delete(int id)
+        {
+            XElement root = XElement.Load(path);
+            XElement? s = root.Elements("Sale").FirstOrDefault(x => (int?)x.Element("SaleId") == id);
+            if (s != null)
+            {
+                s.Remove();
+                root.Save(path);
+            }
+        }
+
+        IEnumerable<Sale?> ICrud<Sale>.ReadAll(Func<Sale, bool>? filter)
+        {
+            throw new NotImplementedException();
+        }
     }
-
-    /// <summary>
-    /// מחזירה מכירה לפי תנאי מסוים, אם לא נמצא מחזירה null
-    /// </summary>
-    public Sale? Read(Func<Sale, bool> filter)
-    {
-        return DataSource.Sales.FirstOrDefault(s => s != null && filter(s));
-    }
-
-    /// <summary>
-    /// מחזירה מכירה לפי מזהה
-    /// </summary>
-    public Sale? Read(int id)
-    {
-        LogManager.WriteToLog("DalList", "Read(id)", $"Searching for sale idProduct={id}");
-        return DataSource.Sales.FirstOrDefault(s => s != null && s.idProduct == id);
-    }
-
-    /// <summary>
-    /// מחזירה את כל המכירות העומדות בתנאי מסוים, אם לא נשלח תנאי מחזירה את כל המכירות
-    /// </summary>
-    public IEnumerable<Sale?> ReadAll(Func<Sale, bool>? filter = null)
-    {
-        if (filter == null)
-            return DataSource.Sales.Select(item => item);
-
-        // תיקון: התאמת הפילטר לאובייקטים לא null
-        return DataSource.Sales.Where(s => s != null && filter(s)).Select(item => item);
-    }
-
-    /// <summary>
-    /// עדכון מכירה קיימת ברשימת המכירות
-    /// </summary>
-    public void Update(Sale item)
-    {
-        var existingSale = DataSource.Sales.FirstOrDefault(s => s != null && s.idProduct == item.idProduct);
-
-        if (existingSale == null)
-            throw new Exception("Sale with this id not exists");
-
-        int index = DataSource.Sales.IndexOf(existingSale);
-        DataSource.Sales[index] = item;
-        LogManager.WriteToLog("DalList", "Update", $"Updated sale product-id: {item.idProduct}");
-    }
-
-    /// <summary>
-    /// מחיקת מכירה לפי id המוצר, אם לא נמצא זורקת חריגה
-    /// </summary>
-    public void Delete(int id)
-    {
-        var sale = DataSource.Sales.FirstOrDefault(s => s != null && s.idProduct == id);
-
-        if (sale == null)
-            throw new Exception("Sale with this id not exists");
-
-        DataSource.Sales.Remove(sale);
-        LogManager.WriteToLog("DalList", "Delete", $"Deleted sale product-id: {id}");
-    }
-
-    // מימוש ממשק ISale
-    public IEnumerable<Sale> GetList()
-    {
-        // מחזיר את כל המכירות שאינן null
-        return DataSource.Sales.Where(s => s != null).Cast<Sale>();
-    }
-
-    public Sale Get(int id)
-    {
-        var sale = DataSource.Sales.FirstOrDefault(s => s != null && s.idProduct == id);
-        if (sale == null)
-            throw new Exception("Sale with this id not exists");
-        return sale;
-    }
-
-    public void Add(Sale sale)
-    {
-        Create(sale);
-    }
-}
-public static class DataSource
-{
-    public static class Config
-    {
-        private static int _saleId = 1;
-        public static int GetId => _saleId++;
-    }
-
-    public static List<Sale> Sales { get; } = new();
 }

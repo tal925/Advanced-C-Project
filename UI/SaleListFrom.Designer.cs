@@ -32,7 +32,6 @@
             button1 = new Button();
             textBoxSale = new TextBox();
             dataGridViewSales = new DataGridView();
-            saleBindingSource = new BindingSource(components);
             productIDDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
             countDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
             priceSaleDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
@@ -40,13 +39,15 @@
             startDateDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
             endDateDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
             salesDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
+            saleBindingSource = new BindingSource(components);
+            readAll = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridViewSales).BeginInit();
             ((System.ComponentModel.ISupportInitialize)saleBindingSource).BeginInit();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(530, 118);
+            button1.Location = new Point(532, 33);
             button1.Name = "button1";
             button1.Size = new Size(127, 51);
             button1.TabIndex = 0;
@@ -67,16 +68,11 @@
             dataGridViewSales.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridViewSales.Columns.AddRange(new DataGridViewColumn[] { productIDDataGridViewTextBoxColumn, countDataGridViewTextBoxColumn, priceSaleDataGridViewTextBoxColumn, isClubMemberDataGridViewCheckBoxColumn, startDateDataGridViewTextBoxColumn, endDateDataGridViewTextBoxColumn, salesDataGridViewTextBoxColumn });
             dataGridViewSales.DataSource = saleBindingSource;
-            dataGridViewSales.Location = new Point(0, 266);
+            dataGridViewSales.Location = new Point(12, 239);
             dataGridViewSales.Name = "dataGridViewSales";
             dataGridViewSales.RowTemplate.Height = 25;
             dataGridViewSales.Size = new Size(742, 150);
             dataGridViewSales.TabIndex = 2;
-            //dataGridViewSales.CellContentClick += dataGridViewSales_CellContentClick;
-            // 
-            // saleBindingSource
-            // 
-            saleBindingSource.DataSource = typeof(BO.Sale);
             // 
             // productIDDataGridViewTextBoxColumn
             // 
@@ -120,11 +116,26 @@
             salesDataGridViewTextBoxColumn.HeaderText = "Sales";
             salesDataGridViewTextBoxColumn.Name = "salesDataGridViewTextBoxColumn";
             // 
+            // saleBindingSource
+            // 
+            saleBindingSource.DataSource = typeof(BO.Sale);
+            // 
+            // readAll
+            // 
+            readAll.Location = new Point(528, 119);
+            readAll.Name = "readAll";
+            readAll.Size = new Size(127, 44);
+            readAll.TabIndex = 3;
+            readAll.Text = "readAll";
+            readAll.UseVisualStyleBackColor = true;
+            readAll.Click += readAll_Click;
+            // 
             // SaleListFrom
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(readAll);
             Controls.Add(dataGridViewSales);
             Controls.Add(textBoxSale);
             Controls.Add(button1);
@@ -149,5 +160,6 @@
         private DataGridViewTextBoxColumn endDateDataGridViewTextBoxColumn;
         private DataGridViewTextBoxColumn salesDataGridViewTextBoxColumn;
         private BindingSource saleBindingSource;
+        private Button readAll;
     }
 }

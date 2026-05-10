@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SPlgJetmDCI=",
+  "dgSpecHash": "szvmtT7B5iYuBU9Kwlui06ErgTecpg8m4GyegSnEhWZWmIumvyFh3yIjDrhBnsPtQMGENXUjWPaBF0zvOpMaJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\Advanced-C-Project\\DalList\\DalList.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalList\\DalList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

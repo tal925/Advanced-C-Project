@@ -104,5 +104,11 @@ namespace UI
                 MessageBox.Show("שגיאה בסינון: " + ex.Message);
             }
         }
+
+        private void readAll_Click(object sender, EventArgs e)
+        {
+            dataGridViewSales.Visible = true;
+            dataGridViewSales.DataSource = _bl.Sale.GetList();
+        }
     }
 }

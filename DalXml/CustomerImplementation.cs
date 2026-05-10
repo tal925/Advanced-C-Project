@@ -7,23 +7,8 @@ namespace Dal;
 
     internal class CustomerImplementation : ICustomer
     {
-        // Resolve xml path relative to the running executable, searching upward for an 'xml' folder
-        private static string GetXmlDir()
-        {
-            var dir = AppContext.BaseDirectory;
-            for (int i = 0; i < 10; i++)
-            {
-                var candidate = Path.Combine(dir, "xml");
-                if (Directory.Exists(candidate)) return candidate;
-                var parent = Directory.GetParent(dir);
-                if (parent == null) break;
-                dir = parent.FullName;
-            }
-            return Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "..", "xml"));
-        }
 
-        readonly string s_customers_xml = Path.Combine(GetXmlDir(), "customers.xml");
-
+        readonly string s_customers_xml = @"..\xml\customers.xml";
     static Customer CreateFromElement(XElement s)
     {
         int id = (int?)s.Element("id") ?? 0;

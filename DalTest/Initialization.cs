@@ -44,7 +44,7 @@ public static class Initialization
     public static void Initialize()
     {
         // קבלת המופע היחיד (Instance) של הנתונים
-        s_dal = DalList.DalList.Instance;
+        s_dal = DalApi.Factory.Get;
         CreateCustomer();
         CreateProduct(); // חשוב: קודם ליצור מוצרים ורק אז הנחות
         CreateSale();

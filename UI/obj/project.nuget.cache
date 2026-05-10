@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uc+ZpdWsTys=",
+  "dgSpecHash": "Q44Zq2KW7b1Jn1xXEacdc8CDBM6kmBWGYXpnRuiOIxTDHC72uXFshRo7k1aBeIEju4gM0ptSHSuzqmkQ5PCP7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\בית\\Pictures\\Desktop\\תכנות יהודית\\Advanced-C-Project\\UI\\UI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

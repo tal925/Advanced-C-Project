@@ -8,4 +8,5 @@ public interface ISale
     public void Add(Sale sale);
     public void Update(Sale sale);
     public void Delete(int id);
+
 }

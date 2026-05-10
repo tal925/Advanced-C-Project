@@ -8,58 +8,58 @@ namespace Dal;
 
 internal class ProductImplementation : IProduct
 {
-    readonly string s_products_xml = "products";
+    readonly string s_products_xml = @"..\xml\products.xml";
 
     public int Create(Product item)
     {
-        List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>(s_products_xml);
+        List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>("product");
 
         Product newItem = item with { id = Config.ProductNum };
 
         products.Add(newItem);
-        XMLTools.SaveListToXMLSerializer(products, s_products_xml);
+        XMLTools.SaveListToXMLSerializer(products, "product");
 
         return newItem.id;
     }
 
     public Product? Read(int id)
     {
-        List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>(s_products_xml);
+        List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>("product");
         return products.FirstOrDefault(p => p.id == id);
     }
 
     public Product? Read(Func<Product, bool> filter)
     {
-        List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>(s_products_xml);
+        List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>("product");
         return products.FirstOrDefault(filter);
     }
 
     public IEnumerable<Product?> ReadAll(Func<Product?, bool>? filter = null)
     {
-        List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>(s_products_xml);
+        List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>("product");
         if (filter == null) return products;
         return products.Where(filter);
     }
 
     public void Update(Product item)
     {
-        List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>(s_products_xml);
+        List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>("product");
 
         if (products.RemoveAll(p => p.id == item.id) == 0)
             throw new Exception("Product not found");
 
         products.Add(item);
-        XMLTools.SaveListToXMLSerializer(products, s_products_xml);
+        XMLTools.SaveListToXMLSerializer(products, "product");
     }
 
     public void Delete(int id)
     {
-        List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>(s_products_xml);
+        List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>("product");
 
         if (products.RemoveAll(p => p.id == id) == 0)
             throw new Exception("Product not found");
 
-        XMLTools.SaveListToXMLSerializer(products, s_products_xml);
+        XMLTools.SaveListToXMLSerializer(products, "product");
     }
 }public static class Config
 {

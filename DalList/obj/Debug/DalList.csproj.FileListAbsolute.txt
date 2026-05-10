@@ -1,121 +1,14 @@
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\bin\DalList.deps.json
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\bin\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\bin\DalList.pdb
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.AssemblyInfo.cs
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.Up2Date
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\refint\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.pdb
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\ref\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\bin\DalList.deps.json
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\bin\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\bin\DalList.pdb
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalList\obj\Debug\DalList.AssemblyInfo.cs
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.Up2Date
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalList\obj\Debug\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalList\obj\Debug\refint\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalList\obj\Debug\DalList.pdb
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\DotNet2026_9146_3180\DalList\obj\Debug\ref\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalList\obj\Debug\DalList.AssemblyInfo.cs
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\bin\DalList.deps.json
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\bin\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\bin\DalList.pdb
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.Up2Date
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalList\obj\Debug\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalList\obj\Debug\refint\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalList\obj\Debug\DalList.pdb
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\DotNet2026_9146_3180\DalList\obj\Debug\ref\DalList.dll
-C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\bin\DalList.deps.json
-C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\bin\DalList.dll
-C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\bin\DalList.pdb
-C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
-C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
-C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalList\obj\Debug\DalList.AssemblyInfo.cs
-C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
-C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.Up2Date
-C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalList\obj\Debug\DalList.dll
-C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalList\obj\Debug\refint\DalList.dll
-C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalList\obj\Debug\DalList.pdb
-C:\Users\user\Downloads\jm_bONqmVwl50i2R56\DotNet2026_9146_3180\DalList\obj\Debug\ref\DalList.dll
-M:\C# מתקדם\DotNet2026_9146_3180\bin\DalList.deps.json
-M:\C# מתקדם\DotNet2026_9146_3180\bin\DalList.dll
-M:\C# מתקדם\DotNet2026_9146_3180\bin\DalList.pdb
-M:\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
-M:\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
-M:\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
-M:\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.AssemblyInfo.cs
-M:\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
-M:\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.CopyComplete
-M:\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.dll
-M:\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\refint\DalList.dll
-M:\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.pdb
-M:\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\ref\DalList.dll
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\bin\DalList.deps.json
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\bin\DalList.dll
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\bin\DalList.pdb
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.AssemblyInfo.cs
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.csproj.Up2Date
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.dll
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\refint\DalList.dll
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.pdb
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\ref\DalList.dll
-C:\לימודים\יד\C# מתקדם\DotNet2026_9146_3180\DalList\obj\Debug\DalList.sourcelink.json
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\bin\DalList.deps.json
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\bin\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\bin\DalList.pdb
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\DalList.AssemblyInfo.cs
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\DalList.sourcelink.json
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.Up2Date
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\refint\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\DalList.pdb
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\שנה ב\#c net\Advanced-C-Project\DalList\obj\Debug\ref\DalList.dll
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\DalList.deps.json
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\DalList.dll
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\bin\DalList.pdb
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.AssemblyInfo.cs
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.sourcelink.json
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.Up2Date
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.dll
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\refint\DalList.dll
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\DalList.pdb
-C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\Advanced-C-Project\DalList\obj\Debug\ref\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\DalList.deps.json
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\bin\DalList.pdb
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.AssemblyInfo.cs
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.sourcelink.json
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.Up2Date
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\refint\DalList.dll
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\DalList.pdb
-C:\Users\בית\Pictures\Desktop\תכנות יהודית\Advanced-C-Project\DalList\obj\Debug\ref\DalList.dll
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\bin\DalList.deps.json
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\bin\DalList.dll
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\bin\DalList.pdb
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\DalList\obj\Debug\DalList.AssemblyInfo.cs
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\DalList\obj\Debug\DalList.dll
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\DalList\obj\Debug\refint\DalList.dll
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\DalList\obj\Debug\DalList.pdb
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\DalList\obj\Debug\ref\DalList.dll
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\DalList\obj\Debug\DalList.sourcelink.json
+M:\C# מתקדם\פרויקט סופי\Advanced-C-Project\DalList\obj\Debug\DalList.csproj.Up2Date

@@ -108,7 +108,8 @@ internal class OrderImplementation : IOrder
             }
         }
     }
-
+   
+    /// <param name="productInOrder"></param>
     public void CalcTotalPriceForProduct(BO.ProductInOrder productInOrder)
     {
         int remainingAmount = productInOrder.Amount;
