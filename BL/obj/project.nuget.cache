@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "azgQOsPxpQ8oc4sRmuh2RcKmwVRBR9jEkNgYvN6xrgcv9MmRkdVubq7wZUTQVdoKK7GF/feg8hW1HycivSjs3A==",
+  "dgSpecHash": "pFJ2FqEtSu4=",
   "success": true,
-  "projectFilePath": "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\BL\\BL.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\tamarlev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\לימודים\\יד\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\BL\\BL.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

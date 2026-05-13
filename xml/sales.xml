@@ -1,3 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfSale>
+  <Sale>
+    <SaleId>1022</SaleId>
+    <ProductID>3</ProductID>
+    <MinProductSale>100.5</MinProductSale>
+    <SumPriceSale>1017</SumPriceSale>
+    <IfEveryOne>true</IfEveryOne>
+    <StartrSale>12/05/2026 21:41:51</StartrSale>
+    <EndSale>19/05/2026 21:41:51</EndSale>
+  </Sale>
+  <Sale>
+    <SaleId>1023</SaleId>
+    <ProductID>5</ProductID>
+    <MinProductSale>103.5</MinProductSale>
+    <SumPriceSale>1018</SumPriceSale>
+    <IfEveryOne>true</IfEveryOne>
+    <StartrSale>12/05/2026 21:41:51</StartrSale>
+    <EndSale>15/05/2026 21:41:51</EndSale>
+  </Sale>
+  <Sale>
+    <SaleId>1024</SaleId>
+    <ProductID>6</ProductID>
+    <MinProductSale>160.5</MinProductSale>
+    <SumPriceSale>1019</SumPriceSale>
+    <IfEveryOne>true</IfEveryOne>
+    <StartrSale>12/05/2026 21:41:51</StartrSale>
+    <EndSale>19/05/2026 21:41:51</EndSale>
+  </Sale>
+  <Sale>
+    <SaleId>1025</SaleId>
+    <ProductID>3</ProductID>
+    <MinProductSale>144.5</MinProductSale>
+    <SumPriceSale>1020</SumPriceSale>
+    <IfEveryOne>true</IfEveryOne>
+    <StartrSale>12/05/2026 21:41:51</StartrSale>
+    <EndSale>14/05/2026 21:41:51</EndSale>
+  </Sale>
 </ArrayOfSale>

@@ -83,25 +83,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tamarlev\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalTest\\DalTest.csproj",
+      "projectUniqueName": "C:\\לימודים\\יד\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalTest\\DalTest.csproj",
       "projectName": "DalTest",
-      "projectPath": "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalTest\\DalTest.csproj",
-      "packagesPath": "C:\\Users\\tamarlev\\.nuget\\packages\\",
-      "outputPath": "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalTest\\obj\\",
+      "projectPath": "C:\\לימודים\\יד\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalTest\\DalTest.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\לימודים\\יד\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\tamarlev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -117,17 +115,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalFacade\\DalFacade.csproj": {
-              "projectPath": "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalFacade\\DalFacade.csproj"
+            "C:\\לימודים\\יד\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalFacade\\DalFacade.csproj": {
+              "projectPath": "C:\\לימודים\\יד\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalFacade\\DalFacade.csproj"
             },
-            "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalList\\DalList.csproj": {
-              "projectPath": "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalList\\DalList.csproj"
+            "C:\\לימודים\\יד\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalList\\DalList.csproj": {
+              "projectPath": "C:\\לימודים\\יד\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalList\\DalList.csproj"
             },
-            "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalXml\\DalXml.csproj": {
-              "projectPath": "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalXml\\DalXml.csproj"
+            "C:\\לימודים\\יד\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalXml\\DalXml.csproj": {
+              "projectPath": "C:\\לימודים\\יד\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\DalXml\\DalXml.csproj"
             },
-            "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\Tools\\Tools.csproj": {
-              "projectPath": "M:\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\Tools\\Tools.csproj"
+            "C:\\לימודים\\יד\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\Tools\\Tools.csproj": {
+              "projectPath": "C:\\לימודים\\יד\\C# מתקדם\\פרויקט סופי\\Advanced-C-Project\\Tools\\Tools.csproj"
             }
           }
         }
@@ -141,7 +139,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net6.0": {
@@ -157,30 +156,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.36, 6.0.36]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

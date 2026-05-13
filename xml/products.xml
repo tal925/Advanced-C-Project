@@ -1,101 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfproduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Product>
-    <id>1</id>
+    <id>1017</id>
     <name>Coffee</name>
     <category>Coffy</category>
     <price>10.5</price>
     <amount>50</amount>
   </Product>
   <Product>
-    <id>2</id>
+    <id>1018</id>
     <name>cola</name>
     <category>Frozen_yogurt</category>
     <price>102.5</price>
     <amount>45</amount>
   </Product>
   <Product>
-    <id>3</id>
+    <id>1019</id>
     <name>Espresso</name>
     <category>Coffy</category>
     <price>12</price>
     <amount>40</amount>
   </Product>
   <Product>
-    <id>4</id>
+    <id>1020</id>
     <name>Chocolate Cake</name>
     <category>Cake</category>
     <price>15.5</price>
     <amount>67</amount>
   </Product>
   <Product>
-    <id>5</id>
+    <id>1021</id>
     <name>Fruit Shake</name>
     <category>Shake</category>
     <price>18</price>
     <amount>678</amount>
-  </Product>
-  <Product>
-    <id>1</id>
-    <name>Coffee</name>
-    <category>Coffy</category>
-    <price>10.5</price>
-    <amount>50</amount>
-  </Product>
-  <Product>
-    <id>2</id>
-    <name>cola</name>
-    <category>Frozen_yogurt</category>
-    <price>102.5</price>
-    <amount>45</amount>
-  </Product>
-  <Product>
-    <id>3</id>
-    <name>Espresso</name>
-    <category>Coffy</category>
-    <price>12</price>
-    <amount>40</amount>
-  </Product>
-  <Product>
-    <id>4</id>
-    <name>Chocolate Cake</name>
-    <category>Cake</category>
-    <price>15.5</price>
-    <amount>67</amount>
-  </Product>
-  <Product>
-    <id>5</id>
-    <name>Fruit Shake</name>
-    <category>Shake</category>
-    <price>18</price>
-    <amount>678</amount>
-  </Product>
-  <Product>
-    <id>1</id>
-    <name>Coffee</name>
-    <category>Coffy</category>
-    <price>10.5</price>
-    <amount>50</amount>
-  </Product>
-  <Product>
-    <id>2</id>
-    <name>cola</name>
-    <category>Frozen_yogurt</category>
-    <price>102.5</price>
-    <amount>45</amount>
-  </Product>
-  <Product>
-    <id>3</id>
-    <name>Espresso</name>
-    <category>Coffy</category>
-    <price>12</price>
-    <amount>40</amount>
-  </Product>
-  <Product>
-    <id>4</id>
-    <name>Chocolate Cake</name>
-    <category>Cake</category>
-    <price>15.5</price>
-    <amount>67</amount>
   </Product>
 </ArrayOfproduct>
